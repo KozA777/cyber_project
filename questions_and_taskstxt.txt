@@ -1,0 +1,12 @@
+QUESTIONS:
+
+1. Do countries with higher Cybersecurity Index have lower amount of attacks? 
+2. Which countries with higher index management have lesser resolution time after the attack? 
+3. Which kind of method is more related to the volume of compromised data? 
+4. Which method of attack targets industries the most? 
+5. What is the average time for a resolution after an attack (filter by an attack method)? 
+6. What is the mitigation strategy and time to mitigate. Strategy might be related to the method. 
+7. How financial loss is related to the amount/type of the lost data? 
+
+
+(Task for Łukasz): Find correlation (if it exists based on the data) between indexes like NCSI, CEI, GCI, DDL etc. Introduce MAX and MIN sorting per year, overtime, losess - sort by country, each year, then the maximum attacks/complaint (amount). We can compare for: money lost divided by the number of complaints.
