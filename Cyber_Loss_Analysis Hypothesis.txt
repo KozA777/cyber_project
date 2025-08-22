@@ -1,0 +1,174 @@
+Executive message (30-sec version)
+
+Cyber losses are rising faster than reports. 
+From 2019→2024, global losses climbed from ~$27.7B to ~$118.6B while complaints (confirmed reported cyber attacks) rose from ~2.9M to 5.9M. 
+Loss-per-complaint nearly doubled ($9.6k → ~$20.0k). 
+Risk is highly concentrated (top 10 countries ≈ 59% of 2024 loss), and country rankings are very stable year-to-year (ρ≈0.99). 
+This suggests we can get outsized impact by focusing on a small set of countries and the highest-severity incident types.
+
+Hypotheses, why they matter, and how you’ll test them
+
+
+
+H1 — Severity is increasing (not just volume).
+
+Story: Complaints are up, but loss-per-complaint is rising even faster. 
+That means each incident is getting more expensive
+(bigger ransoms, deeper supply-chain impact, higher business interruption).
+
+Evidence now: Loss-per-complaint grew from ~$9.6k (2019) → ~$20.0k (2024).
+
+Test: In your notebook, compute yearly loss_per_complaint = total_losses / total_complaints and plot a line; 
+run a Spearman correlation between year and loss_per_complaint (>0 supports H1).
+
+If true, action: Prioritize severity reducers 
+(backup/restore drills, MFA coverage gaps, EDR rollouts) over pure awareness volume.
+
+
+
+H2 — Risk is concentrated in a few markets.
+
+Story: A small country set drives most of the money at risk.
+
+Evidence now: 2024: Top 5 ≈ 41%, Top 10 ≈ 59%, Top 20 ≈ 78% of losses.
+
+Test: Rank countries by 2024 losses; compute cumulative share (you already did this).
+
+If true, action: Focus budget, tabletop exercises, and incident-response SLAs on the top 10 countries first; 
+set country-specific targets.
+
+
+
+H3 — Country risk is persistent (structural), not random.
+
+Story: The countries that were high-loss in 2023 are still high-loss in 2024, implying structural drivers
+(digitalization level, exposure, reporting culture).
+
+Evidence now: Spearman ρ≈0.994 between 2023 and 2024 losses by country.
+
+Test: Year-to-year rank correlations; optionally extend to 2019→2024.
+
+If true, action: Make multi-year country playbooks (not one-offs), 
+align vendor controls, regulatory engagement, and red-team focus to those markets.
+
+
+
+H4 — Complaint volume is a strong (and possibly leading) indicator of loss.
+
+Story: Places with more complaints also lose more; spikes in complaints may predict next-period losses.
+
+Evidence now (same-year): 2024 Pearson≈0.925, Spearman≈0.965 between complaints and losses across countries.
+
+Test:
+
+Same-year scatter & correlation (already done).
+
+Lag test: by country, regress losses_year_t on complaints_year_(t-1) (quick OLS or correlation).
+
+If true, action: Build a weekly “early warning” KPI: if complaints jump X% in top markets,
+pre-position response teams and push controls (e.g., tighten email filtering).
+
+
+
+H5 — Outliers signal under-reporting or high-impact attacks.
+
+Story: Some countries have unusually high loss-per-complaint (few reports but huge cost)
+or low loss-per-complaint (many small incidents or better mitigation).
+
+Test: Compute loss_per_complaint by country for 2024; look at top/bottom deciles. 
+Validate outliers using teammate’s threats file to see if ransomware or BEC dominates.
+
+If true, action:
+
+High LPC → hunt for under-reporting or major-incident clusters; add forensics/IR readiness.
+
+Low LPC → cross-learn mitigations to replicate in other markets.
+
+
+
+H6 — Loss growth outpaces complaint growth (attack quality improved).
+
+Story: From 2021 onward, losses accelerate faster than complaint counts—attackers 
+are getting more efficient (automation, better social engineering, supply-chain leverage).
+
+Evidence now: 2021→2024 shows steep loss slope vs. flatter complaint slope.
+
+Test: Compare CAGR of total losses vs total complaints (2019–2024); plot the two lines (you already do).
+
+If true, action: Shift roadmap toward impact-reduction
+(segmentation, least privilege, backup immutability, privileged access management)
+rather than just incident count suppression.
+
+
+
+H7 — (Integration with teammates) Lower cyber-readiness scores → higher losses.
+
+Story: Countries with weaker readiness (e.g., lower NCSI/GCI) should have higher losses.
+
+Test (merge with Cyber_security.csv): Map by country; run Spearman between loss levels and indices 
+(expect negative correlation if higher index = better security). 
+If you see gaps, try transforming to loss per GDP or loss per internet user (structural size matters).
+
+If true, action: Direct capability-building (MFA coverage, phishing simulation, patch cadence) in low-index countries first.
+
+
+
+H8 — (Integration with threats) A few attack types drive most of the money.
+
+Story: If ransomware/BEC/phishing dominate in your threats file, they likely explain much of the loss pattern.
+
+Test: From Global_Cybersecurity_Threats_2015-2024.csv: group by attack_type and year; compare 
+counts/severity to your country losses (same-year and lag).
+
+If true, action: Targeted controls (e.g., DMARC/MTA-STS for BEC, hardening RDP/VPN for ransomware initial access, rapid patching for top CVEs).
+
+
+
+
+“Slide-ready” storyline (talk track)
+
+
+1. What we asked:
+Are losses going up just because we see more incidents, or are incidents getting worse? 
+Where should we act first?
+
+
+2. What the data says:
+
+Losses +18% YoY (2024 vs 2023).
+
+Loss-per-complaint nearly 2× since 2019.
+
+Risk is concentrated (top 10 countries ≈ 59% of 2024 loss).
+
+Country ranks are sticky (ρ≈0.99), and complaints strongly track losses (r≈0.93–0.97).
+
+
+3. What that means: 
+We can get the biggest impact by focusing on the top 10 countries and the top attack types,
+and by investing in severity-reducing controls.
+
+
+4. What we’ll do next (60–90 days):
+
+Stand up a “Loss Watch” dashboard: (losses, complaints, loss-per-complaint) by country, weekly.
+
+Early-warning rule: 
+if complaints jump ≥X% in a top-10 country → trigger playbook (email hardening, MFA push, awareness nudge, IR readiness).
+
+Country playbooks:
+for the top 10: close MFA gaps, test backups/restore, EDR coverage, privilege audits.
+
+Attack-type sprints (from threats data):
+e.g., anti-BEC (DMARC/brand protection) and ransomware (RDP/VPN hardening).
+
+Define a target: reduce loss-per-complaint by 10–15% in top-10 countries within 2 quarters.
+
+
+Notes & caveats to say out loud
+
+The dataset is aggregated by country/year; it doesn’t prove causation.
+
+2024 may still be incomplete in some sources; treat absolute figures directionally.
+
+Currency harmonization and economic size (GDP, internet population) matter; for deeper fairness, normalize by those.
