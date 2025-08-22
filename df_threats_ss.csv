@@ -1,0 +1,1145 @@
+Start date,Incident type,Receiver country,Category,Initiator country,Political responses,MITRE Impact,Intelligence impact,International Law Breach Indicator,Year
+2015-01-01,Data theft,China,Other,China,0,Data Exfiltration,5,Human rights,2015
+2015-01-01,Data theft,United Kingdom,Government,Russia,1,Data Exfiltration,2,Cyber espionage,2015
+2015-01-01,Data theft,China,Other,China,0,Data Exfiltration,2,Cyber espionage,2015
+2016-01-01,Data theft,Ukraine,Other,Ukraine,0,Data Exfiltration,2,Human rights,2016
+2017-01-01,Data theft,Netherlands,Critical Manufacturing,China,0,Data Exfiltration,3,Due diligence,2017
+2017-01-01,Hijacking,Georgia,Government and Research,Russia,0,Data Exfiltration,1,Sovereignty,2017
+2017-01-01,Data theft,Spain,Government and Research,Spain,3,Data Exfiltration,2,Cyber espionage,2017
+2018-01-01,Data theft,China,Administration,China,0,Data Exfiltration,2,Cyber espionage,2018
+2018-01-01,Data theft,United States,Military,China,0,Data Exfiltration,3,Cyber espionage,2018
+2018-01-01,Hijacking,United States,Government and Research,Unknown,1,Data Manipulation,1,Human rights,2018
+2018-01-01,Data theft,China,Government and Research,China,0,Data Exfiltration,2,Sovereignty,2018
+2019-01-01,Data theft,Kenya,Government and Research,China,0,Data Exfiltration,3,Sovereignty,2019
+2019-01-01,Data theft,Jordan,Government,Unknown,0,Data Exfiltration,3,Human rights,2019
+2020-01-01,Data theft,Europe region,Government and Research,Russia,0,Data Exfiltration,2,Cyber espionage,2020
+2020-01-01,Data theft,Tajikistan,Critical Manufacturing,Russia,0,Data Exfiltration,2,Cyber espionage,2020
+2020-01-01,Data theft,Japan,Government and Research,China,1,Data Exfiltration,3,Cyber espionage,2020
+2020-01-01,Data theft,China,Government,China,0,Data Exfiltration,1,Human rights,2020
+2020-01-01,Data theft,Japan,Finance,China,2,Data Exfiltration,3,Cyber espionage,2020
+2021-01-01,Data theft,Iran,Government and Research,South Asia region,0,Data Exfiltration,2,Due diligence,2021
+2021-01-01,Data theft,United States,Government and Research,China,2,Data Exfiltration,2,Cyber espionage,2021
+2021-01-01,Data theft,Afghanistan,Military,China,0,Data Exfiltration,2,Cyber espionage,2021
+2021-01-01,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2021
+2021-01-01,Data theft,United States,Military,Unknown,0,Data Exfiltration,3,International peace,2021
+2021-01-01,Ransomware,Spain,Administration,Unknown,0,Data Exfiltration,2,Human rights,2021
+2021-01-01,Data theft,United States,Critical Manufacturing,Iran,0,Data Exfiltration,1,Human rights,2021
+2021-01-01,Data theft,Europe region,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Sovereignty,2021
+2022-01-01,Data theft,Russia,Finance,Ukraine,0,Data Exfiltration,4,Cyber espionage,2022
+2022-01-01,Disruption,Poland,Critical Manufacturing,Poland,1,System Shutdown/Reboot,1,Due diligence,2022
+2022-01-01,Data theft,Iran,Critical Manufacturing,Iran,0,Data Exfiltration,5,Cyber espionage,2022
+2022-01-01,Data theft,Hungary,Government and Research,China,0,Data Exfiltration,2,Sovereignty,2022
+2022-01-01,Data theft,Pakistan,Military,Unknown,0,Data Exfiltration,2,Cyber espionage,2022
+2022-01-01,Data theft,Argentina,Government and Research,Unknown,0,Data Exfiltration,5,International criminal law,2022
+2022-01-01,Data theft,South Asia region,Government and Research,China,0,Data Exfiltration,2,Cyber espionage,2022
+2022-01-01,Data theft,Japan,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2022
+2022-01-01,Data theft,Russia,Critical Manufacturing,Ukraine,0,Data Exfiltration,5,Sovereignty,2022
+2022-01-01,Data theft,Russia,Critical Manufacturing,Russia,0,Data Exfiltration,4,Sovereignty,2022
+2022-01-01,Data theft,United Kingdom,Government and Research,Russia,0,Data Exfiltration,5,International peace,2022
+2022-01-01,Data theft,Russia,Finance,Ukraine,0,Data Exfiltration,4,Due diligence,2022
+2022-01-01,Data theft,Italy,Government and Research,China,0,Data Exfiltration,3,Cyber espionage,2022
+2022-01-01,Data theft,Russia,Critical Manufacturing,Ukraine,0,Data Exfiltration,4,Cyber espionage,2022
+2022-01-01,Data theft,United Kingdom,Government and Research,Iran,1,Data Exfiltration,2,Cyber espionage,2022
+2022-01-01,Disruption,Canada,Critical Manufacturing,Russia,3,Account Access Removal,1,Due diligence,2022
+2022-01-01,Data theft,Afghanistan,Not available,Russia,0,Data Exfiltration,2,Sovereignty,2022
+2022-01-01,Data theft,Kenya,Government and Research,China,0,Data Exfiltration,2,Due diligence,2022
+2022-01-01,Ransomware,Taiwan,Government and Research,Unknown,0,Data Exfiltration,2,Cyber espionage,2022
+2022-01-01,Data theft,Portugal,Finance,Unknown,1,Data Exfiltration,5,Cyber espionage,2022
+2022-01-01,Data theft,Israel,Government,Iran,0,Data Exfiltration,2,Cyber espionage,2022
+2022-01-01,Data theft,Pakistan,Government and Research,Unknown,0,Data Exfiltration,2,Cyber espionage,2022
+2023-01-01,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2023
+2023-01-01,Disruption,Cuba,Administration,Cuba,0,Defacement,1,Sovereignty,2023
+2023-01-01,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-01-01,Data theft,Russia,Critical Manufacturing,Ukraine,0,Data Exfiltration,2,Armed conflict,2023
+2023-01-01,Ransomware,New Zealand,Administration,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-01-01,Disruption,United States,Critical Manufacturing,Russia,1,Network Denial of Service,1,Human rights,2023
+2023-01-01,Data theft,Netherlands,Critical Manufacturing,Turkey,0,Data Exfiltration,3,Cyber espionage,2023
+2023-01-01,Data theft,Korea,Administration,Korea,1,Data Exfiltration,3,Human rights,2023
+2023-01-01,Data theft,Canada,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-01-01,Data theft,United States,Government and Research,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-01-01,Data theft,Chile,Administration,South America,0,Data Exfiltration,4,Sovereignty,2023
+2023-01-01,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-01-01,Disruption,United Kingdom,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2023
+2023-01-01,Ransomware,United States,Administration,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-01-01,Data theft,Thailand,Government and Research,China,0,Data Exfiltration,5,Human rights,2023
+2023-01-01,Data theft,Turkey,Government and Research,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-01-01,Data theft,Russia,Administration,Ukraine,0,Data Exfiltration,3,Armed conflict,2023
+2023-01-01,Data theft,Russia,Finance,Ukraine,0,Data Exfiltration,2,Armed conflict,2023
+2023-01-01,Data theft,Israel,Not available,Iran,0,Data Exfiltration,4,Armed conflict,2023
+2023-01-01,Disruption,Canada,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Human rights,2023
+2023-01-01,Data theft,Russia,Military,Ukraine,0,Data Exfiltration,5,Armed conflict,2023
+2023-01-01,Disruption,Russia,Critical Manufacturing,Ukraine,0,Network Denial of Service,1,Sovereignty,2023
+2023-01-01,Data theft,Russia,Administration,Ukraine,0,Data Exfiltration,5,Air law,2023
+2023-01-01,Disruption,Singapore,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2023
+2023-01-01,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Human rights,2023
+2023-01-01,Data theft,India,Government and Research,Russia,0,Data Exfiltration,4,Human rights,2023
+2023-01-01,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-01-01,Data theft,Russia,Finance,Ukraine,0,Data Exfiltration,5,Cyber espionage,2023
+2023-01-01,Data theft,Switzerland,Administration,Unknown,0,Data Exfiltration,4,Human rights,2023
+2023-01-01,Data theft,Korea,Government and Research,Korea,0,Data Exfiltration,2,Human rights,2023
+2023-01-01,Data theft,Tajikistan,Government and Research,Kazakhstan,0,Data Exfiltration,2,Due diligence,2023
+2023-01-01,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Human rights,2023
+2023-01-01,Ransomware,Switzerland,Administration,Unknown,0,Data Exfiltration,5,Human rights,2023
+2023-01-01,Data theft,Canada,Administration,Unknown,0,Data Exfiltration,2,Human rights,2023
+2024-01-01,Data theft,Russia,Military,United States,0,Data Exfiltration,3,Armed conflict,2024
+2024-01-01,Ransomware,Taiwan,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2024
+2024-01-01,Data theft,Chile,Other,Unknown,0,Data Exfiltration,2,Sovereignty,2024
+2024-01-01,Disruption,Switzerland,Other,Unknown,0,Data Encrypted for Impact,1,Human rights,2024
+2024-01-01,Data theft,Iran,Government and Research,Unknown,0,Data Exfiltration,5,Due diligence,2024
+2024-01-01,Ransomware,Germany,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-01-01,Data theft,Netherlands,Military,Unknown,1,Data Exfiltration,3,Human rights,2024
+2024-01-01,Data theft,United States,Not available,United States,0,Data Exfiltration,3,Human rights,2024
+2024-01-01,Hijacking,United States,Critical Manufacturing,Unknown,0,Account Access Removal,1,Sovereignty,2024
+2024-01-01,Data theft,Philippines,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Human rights,2024
+2024-01-01,Disruption,India,Finance,Unknown,0,Data Encrypted for Impact,1,Due diligence,2024
+2024-01-01,Data theft,Korea,Administration,Korea,1,Data Exfiltration,2,Sovereignty,2024
+2024-01-01,Ransomware,Australia,Critical Manufacturing,Unknown,1,Data Exfiltration,5,Human rights,2024
+2024-01-01,Ransomware,United States,Military,Unknown,0,Data Exfiltration,2,Due diligence,2024
+2024-01-01,Disruption,United Kingdom,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2024
+2024-01-01,Data theft,Middle East region,Government,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-01-01,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-01-01,Data theft,United Kingdom,Government and Research,Russia,1,Data Exfiltration,5,Cyber espionage,2024
+2024-01-01,Hijacking,United States,Government and Research,Unknown,0,Account Access Removal,1,Sovereignty,2024
+2024-01-01,Data theft,France,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Due diligence,2024
+2024-01-01,Disruption,Russia,Finance,Ukraine,0,Network Denial of Service,1,Armed conflict,2024
+2024-01-01,Data theft,Uruguay,Not available,Unknown,1,Data Exfiltration,2,Human rights,2024
+2024-01-01,Disruption,Singapore,Other,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2024
+2024-01-01,Ransomware,United States,Government and Research,Unknown,0,Data Exfiltration,2,Sovereignty,2024
+2024-01-01,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-01-01,Hijacking,United Arab Emirates,Government and Research,Iran,0,Data Exfiltration,5,Human rights,2024
+2024-01-01,Ransomware,Taiwan,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Due diligence,2024
+2024-01-01,Disruption,Germany,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2024
+2024-01-01,Hijacking,Lebanon,Critical Manufacturing,Unknown,0,Defacement,1,Air law,2024
+2021-02-01,Data theft,Togo,Not available,Togo,0,Data Exfiltration,3,Human rights,2021
+2022-02-01,Data theft,Ukraine,Finance,Unknown,0,Data Exfiltration,2,Cyber espionage,2022
+2022-02-01,Data theft,Russia,Government and Research,Unknown,0,Data Exfiltration,4,Armed conflict,2022
+2022-02-01,Disruption,Russia,Government and Research,Russia,0,Network Denial of Service,1,Sovereignty,2022
+2022-02-01,Data theft,Ukraine,Military,China,0,Data Exfiltration,1,International peace,2022
+2022-02-01,Data theft,Global,Critical Manufacturing,Korea,0,Data Exfiltration,2,Sovereignty,2022
+2022-02-01,Data theft,Pakistan,Government and Research,Unknown,0,Data Exfiltration,2,Sovereignty,2022
+2023-02-01,Data theft,United States,Administration,Unknown,0,Data Exfiltration,4,Human rights,2023
+2023-02-01,Disruption,South Africa region,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Human rights,2023
+2023-02-01,Data theft,Europe region,Government and Research,Russia,0,Data Exfiltration,2,Cyber espionage,2023
+2023-02-01,Data theft,Guyana,Government and Research,China,0,Data Exfiltration,2,Due diligence,2023
+2023-02-01,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2023
+2023-02-01,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Human rights,2023
+2023-02-01,Data theft,Southeast Asia region,Government and Research,China,0,Data Exfiltration,2,Cyber espionage,2023
+2023-02-01,Ransomware,United States,Finance,Unknown,0,Data Exfiltration,3,Sovereignty,2023
+2023-02-01,Data theft,Middle East region,Government and Research,Iran,0,Data Exfiltration,2,Cyber espionage,2023
+2023-02-01,Disruption,Tonga,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,3,Sovereignty,2023
+2023-02-01,Disruption,United States,Other,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2023
+2023-02-01,Data theft,Ukraine,Government and Research,Russia,0,Data Exfiltration,3,Cyber espionage,2023
+2023-02-01,Disruption,United States,Administration,Unknown,0,Data Encrypted for Impact,1,Human rights,2023
+2023-02-01,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Due diligence,2023
+2023-02-01,Disruption,Colombia,Critical Manufacturing,Unknown,1,Data Encrypted for Impact,1,Human rights,2023
+2023-02-01,Disruption,United Kingdom,Government and Research,Russia,0,Data Encrypted for Impact,1,Due diligence,2023
+2023-02-01,Hijacking,Mexico,Finance,Unknown,0,Data Manipulation,1,Sovereignty,2023
+2023-02-01,Data theft,Global,Critical Manufacturing,Iran,0,Data Exfiltration,2,Cyber espionage,2023
+2023-02-01,Data theft,United States,Critical Manufacturing,Russia,0,Data Exfiltration,5,Human rights,2023
+2023-02-01,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2023
+2024-02-01,Data theft,China,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Human rights,2024
+2024-02-01,Disruption,United States,Administration,Unknown,0,Data Encrypted for Impact,1,Human rights,2024
+2024-02-01,Data theft,Spain,Military,Unknown,0,Data Exfiltration,5,Human rights,2024
+2024-02-01,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-02-01,Data theft,Estonia,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-02-01,Disruption,Finland,Administration,Russia,0,Network Denial of Service,1,Due diligence,2024
+2024-02-01,Data theft,Middle East region,Government and Research,Unknown,0,Data Exfiltration,3,Sovereignty,2024
+2024-02-01,Disruption,Malawi,Administration,Unknown,1,Data Encrypted for Impact,1,Sovereignty,2024
+2020-03-01,Data theft,Iran,Administration,Iran,0,Data Exfiltration,3,Human rights,2020
+2020-03-01,Data theft,Canada,Administration,Unknown,0,Data Exfiltration,2,Human rights,2020
+2021-03-01,Data theft,Netherlands,Critical Manufacturing,Netherlands,0,Data Exfiltration,4,Human rights,2021
+2022-03-01,Data theft,Ukraine,Government and Research,Unknown,0,Data Exfiltration,2,Cyber espionage,2022
+2022-03-01,Data theft,South Asia region,Government and Research,China,0,Data Exfiltration,3,Cyber espionage,2022
+2022-03-01,Data theft,Ukraine,Military,Russia,0,Data Exfiltration,5,Armed conflict,2022
+2022-03-01,Data theft,Russia,Government and Research,Unknown,0,Data Exfiltration,4,Human rights,2022
+2022-03-01,Data theft,Russia,Critical Manufacturing,Unknown,0,Data Exfiltration,4,International peace,2022
+2022-03-01,Data theft,Russia,Other,Unknown,0,Data Exfiltration,4,Human rights,2022
+2023-03-01,Data theft,Australia,Finance,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-03-01,Data theft,Spain,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Human rights,2023
+2023-03-01,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Human rights,2023
+2023-03-01,Data theft,Russia,Military,Ukraine,0,Data Exfiltration,5,Human rights,2023
+2023-03-01,Ransomware,Chile,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Human rights,2023
+2023-03-01,Data theft,France,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Human rights,2023
+2023-03-01,Data theft,Russia,Administration,Ukraine,0,Data Exfiltration,5,Armed conflict,2023
+2023-03-01,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Human rights,2023
+2023-03-01,Data theft,Korea,Other,Korea,0,Data Exfiltration,2,Sovereignty,2023
+2023-03-01,Ransomware,Canada,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2024-03-01,Disruption,Colombia,Critical Manufacturing,Unknown,1,Data Encrypted for Impact,1,Human rights,2024
+2024-03-01,Data theft,Spain,Government and Research,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-03-01,Data theft,Russia,Government and Research,Ukraine,0,Data Exfiltration,3,Armed conflict,2024
+2024-03-01,Ransomware,Netherlands,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Human rights,2024
+2024-03-01,Data theft,United Kingdom,Critical Manufacturing,Unknown,1,Data Exfiltration,2,Human rights,2024
+2024-03-01,Data theft,United States,Administration,Unknown,0,Data Exfiltration,2,Sovereignty,2024
+2024-03-01,Data theft,Germany,Administration,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-03-01,Data theft,United Arab Emirates,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Human rights,2024
+2024-03-01,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2024
+2024-03-01,Hijacking,Belgium,Administration,Unknown,0,Defacement,1,Sovereignty,2024
+2020-04-01,Data theft,Georgia,Government and Research,Russia,0,Data Exfiltration,3,Cyber espionage,2020
+2020-04-01,Data theft,United States,Government and Research,Russia,3,Data Exfiltration,2,Cyber espionage,2020
+2021-04-01,Data theft,South Asia region,Government and Research,China,0,Data Exfiltration,3,Cyber espionage,2021
+2022-04-01,Data theft,Russia,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Human rights,2022
+2022-04-01,Data theft,Russia,Finance,Unknown,0,Data Exfiltration,4,Human rights,2022
+2022-04-01,Data theft,Russia,Critical Manufacturing,Ukraine,0,Data Exfiltration,4,Cyber espionage,2022
+2022-04-01,Disruption,Iceland,Not available,Unknown,0,Network Denial of Service,1,Sovereignty,2022
+2023-04-01,Data theft,Germany,Not available,Russia,0,Data Exfiltration,4,Due diligence,2023
+2023-04-01,Ransomware,Germany,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Due diligence,2023
+2023-04-01,Data theft,France,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-04-01,Ransomware,Australia,Government and Research,Russia,1,Data Exfiltration,4,Due diligence,2023
+2023-04-01,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Human rights,2023
+2023-04-01,Ransomware,Italy,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Sovereignty,2023
+2023-04-01,Data theft,Korea,Military,Korea,0,Data Exfiltration,3,Cyber espionage,2023
+2023-04-01,Ransomware,Italy,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2024-04-01,Disruption,Libya,Administration,Unknown,0,Network Denial of Service,1,Sovereignty,2024
+2024-04-01,Data theft,Israel,Government and Research,Unknown,1,Data Exfiltration,2,Armed conflict,2024
+2024-04-01,Data theft,United Kingdom,Government and Research,China,1,Data Exfiltration,3,Cyber espionage,2024
+2024-04-01,Disruption,Russia,Critical Manufacturing,Ukraine,0,Data Destruction,1,Armed conflict,2024
+2024-04-01,Data theft,Argentina,Administration,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-04-01,Ransomware,Switzerland,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Sovereignty,2024
+2024-04-01,Data theft,Israel,Government and Research,Unknown,1,Data Exfiltration,4,Human rights,2024
+2024-04-01,Data theft,Korea,Critical Manufacturing,Korea,1,Data Exfiltration,2,Human rights,2024
+2024-04-01,Data theft,Russia,Government,Russia,0,Data Exfiltration,5,Human rights,2024
+2020-05-01,Disruption,Taiwan,Administration,Unknown,0,Data Destruction,3,Human rights,2020
+2020-05-01,Data theft,China,Finance,China,0,Data Exfiltration,3,Cyber espionage,2020
+2021-05-01,Data theft,Mexico,Government and Research,Mexico,0,Data Exfiltration,3,Cyber espionage,2021
+2021-05-01,Data theft,Spain,Government and Research,Unknown,2,Data Exfiltration,2,Cyber espionage,2021
+2021-05-01,Data theft,Korea,Critical Manufacturing,Korea,1,Data Exfiltration,3,Human rights,2021
+2021-05-01,Data theft,Albania,Administration,Iran,5,Data Exfiltration,5,International peace,2021
+2022-05-01,Disruption,Russia,Critical Manufacturing,Unknown,0,Network Denial of Service,1,Sovereignty,2022
+2022-05-01,Disruption,Germany,Government and Research,Russia,0,Endpoint Denial of Service,1,International peace,2022
+2022-05-01,Data theft,United States,Government and Research,Russia,3,Data Exfiltration,2,Cyber espionage,2022
+2022-05-01,Data theft,Europe region,Government and Research,Unknown,0,Data Exfiltration,3,Cyber espionage,2022
+2022-05-01,Disruption,Ukraine,Finance,Russia,0,Network Denial of Service,1,Armed conflict,2022
+2022-05-01,Data theft,Germany,Critical Manufacturing,Unknown,2,Data Exfiltration,2,Cyber espionage,2022
+2023-05-01,Data theft,Australia,Finance,Unknown,0,Data Exfiltration,2,Due diligence,2023
+2023-05-01,Ransomware,United States,Administration,Unknown,1,Data Exfiltration,2,Human rights,2023
+2023-05-01,Data theft,United States,Critical Manufacturing,Russia,0,Data Exfiltration,2,Cyber espionage,2023
+2023-05-01,Ransomware,France,Finance,Unknown,0,Data Exfiltration,5,Human rights,2023
+2024-05-01,Ransomware,Switzerland,Critical Manufacturing,Russia,0,Data Exfiltration,5,Air law,2024
+2024-05-01,Data theft,Europe region,Military,Unknown,0,Data Exfiltration,2,Due diligence,2024
+2024-05-01,Data theft,Belgium,Administration,Unknown,0,Data Exfiltration,3,Human rights,2024
+2024-05-01,Ransomware,United States,Finance,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-05-01,Data theft,United States,Finance,Unknown,0,Data Exfiltration,4,Human rights,2024
+2024-05-01,Ransomware,United States,Administration,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-05-01,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Human rights,2024
+2020-06-01,Data theft,Europe region,Government and Research,Russia,0,Data Exfiltration,2,Sovereignty,2020
+2021-06-01,Data theft,Bosnia and Herzegovina,Government and Research,Unknown,0,Data Exfiltration,4,Human rights,2021
+2022-06-01,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Due diligence,2022
+2022-06-01,Hijacking,United States,Administration,Unknown,1,Data Manipulation,3,Human rights,2022
+2022-06-01,Disruption,United States,Critical Manufacturing,Russia,0,Data Encrypted for Impact,1,Human rights,2022
+2022-06-01,Disruption,Lithuania,Critical Manufacturing,Russia,1,Network Denial of Service,1,Due diligence,2022
+2022-06-01,Data theft,Serbia,Military,China,0,Data Exfiltration,2,Due diligence,2022
+2022-06-01,Data theft,United States,Administration,Unknown,0,Data Exfiltration,2,Cyber espionage,2022
+2022-06-01,Data theft,Uzbekistan,Critical Manufacturing,Kazakhstan,0,Data Exfiltration,2,Cyber espionage,2022
+2022-06-01,Data theft,United Arab Emirates,Critical Manufacturing,Iran,0,Data Exfiltration,2,Cyber espionage,2022
+2023-06-01,Ransomware,Taiwan,Critical Manufacturing,Russia,0,Data Exfiltration,2,Due diligence,2023
+2023-06-01,Ransomware,Slovakia,Administration,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-06-01,Disruption,Russia,Critical Manufacturing,Ukraine,0,Data Destruction,1,Armed conflict,2023
+2023-06-01,Data theft,Turkey,Administration,Unknown,0,Data Exfiltration,5,Human rights,2023
+2023-06-01,Disruption,United States,Critical Manufacturing,Unknown,1,Data Encrypted for Impact,1,Human rights,2023
+2023-06-01,Disruption,United States,Administration,Unknown,0,Defacement,1,Human rights,2023
+2023-06-01,Ransomware,United Kingdom,Administration,Unknown,0,Data Exfiltration,4,Human rights,2023
+2023-06-01,Data theft,Italy,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2023
+2023-06-01,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2023
+2023-06-01,Ransomware,United States,Not available,Russia,0,Data Exfiltration,1,Due diligence,2023
+2024-06-01,Ransomware,South America,Critical Manufacturing,Unknown,0,Account Access Removal,3,Human rights,2024
+2024-06-01,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Human rights,2024
+2024-06-01,Data theft,Germany,Critical Manufacturing,Unknown,0,Account Access Removal,2,Human rights,2024
+2024-06-01,Data theft,Japan,Government,China,0,Data Exfiltration,2,Cyber espionage,2024
+2024-06-01,Data theft,Australia,Government and Research,Unknown,0,Data Exfiltration,4,Human rights,2024
+2024-06-01,Data theft,France,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-06-01,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,1,Human rights,2024
+2024-06-01,Data theft,Spain,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-06-01,Data theft,Europe region,Government and Research,Russia,0,Data Exfiltration,2,Cyber espionage,2024
+2024-06-01,Disruption,Mexico,Government and Research,Unknown,0,Data Encrypted for Impact,1,Human rights,2024
+2022-07-01,Data theft,Iran,Government and Research,China,0,Data Exfiltration,2,Cyber espionage,2022
+2022-07-01,Data theft,Africa,Military,Korea,0,Data Exfiltration,2,Sovereignty,2022
+2023-07-01,Disruption,Italy,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Human rights,2023
+2023-07-01,Data theft,Vietnam,Government and Research,Unknown,0,Data Exfiltration,2,Sovereignty,2023
+2023-07-01,Data theft,Taiwan,Government and Research,China,0,Data Exfiltration,2,Human rights,2023
+2023-07-01,Hijacking,Europe region,Finance,Unknown,0,Data Manipulation,1,Human rights,2023
+2024-07-01,Ransomware,France,Administration,Unknown,0,Data Exfiltration,4,Human rights,2024
+2024-07-01,Data theft,Mexico,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Sovereignty,2024
+2024-07-01,Disruption,United States,Critical Manufacturing,Russia,0,Data Encrypted for Impact,1,Human rights,2024
+2024-07-01,Data theft,United Arab Emirates,Other,Unknown,0,Data Exfiltration,4,Human rights,2024
+2024-07-01,Data theft,Singapore,Finance,Unknown,1,Data Exfiltration,2,Human rights,2024
+2019-08-01,Data theft,South Asia region,Government and Research,Unknown,0,Data Exfiltration,3,Cyber espionage,2019
+2021-08-01,Data theft,Indonesia,Critical Manufacturing,China,0,Data Exfiltration,3,Cyber espionage,2021
+2021-08-01,Data theft,United Kingdom,Government,China,1,Data Exfiltration,2,Human rights,2021
+2021-08-01,Data theft,New Zealand,Government and Research,China,1,Data Exfiltration,2,Cyber espionage,2021
+2021-08-01,Disruption,Puerto Rico,Finance,Russia,0,Data Encrypted for Impact,1,Due diligence,2021
+2022-08-01,Data theft,United States,Government and Research,Unknown,1,Data Exfiltration,2,Due diligence,2022
+2022-08-01,Disruption,Estonia,Not available,Russia,1,Network Denial of Service,1,Due diligence,2022
+2023-08-01,Data theft,France,Administration,Russia,0,Data Exfiltration,4,Due diligence,2023
+2023-08-01,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2023
+2023-08-01,Data theft,Pakistan,Government and Research,Unknown,0,Data Exfiltration,2,Sovereignty,2023
+2023-08-01,Data theft,United States,Government and Research,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-08-01,Hijacking,Sweden,Critical Manufacturing,Iran,1,Defacement,1,Sovereignty,2023
+2023-08-01,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Due diligence,2023
+2023-08-01,Data theft,Turkey,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Human rights,2023
+2023-08-01,Disruption,Italy,Finance,Russia,0,Network Denial of Service,1,Due diligence,2023
+2024-08-01,Ransomware,Malaysia,Government and Research,Unknown,0,Data Exfiltration,3,Human rights,2024
+2024-08-01,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2024
+2024-08-01,Disruption,Iran,Critical Manufacturing,Unknown,0,Network Denial of Service,1,Due diligence,2024
+2024-08-01,Data theft,Russia,Critical Manufacturing,Ukraine,0,Data Exfiltration,5,Cyber espionage,2024
+2024-08-01,Data theft,China,Government and Research,United States,1,Data Exfiltration,2,Cyber espionage,2024
+2024-08-01,Data theft,Canada,Other,Unknown,0,Data Exfiltration,2,Human rights,2024
+2019-09-01,Data theft,United States,Government and Research,Russia,7,Data Exfiltration,3,Cyber espionage,2019
+2020-09-01,Data theft,Netherlands,Crime,Netherlands,0,Data Exfiltration,5,Human rights,2020
+2020-09-01,Data theft,Korea,Critical Manufacturing,Korea,1,Data Exfiltration,3,Cyber espionage,2020
+2021-09-01,Data theft,China,Critical Manufacturing,Asia region,0,Data Exfiltration,4,Sovereignty,2021
+2022-09-01,Data theft,Russia,Government and Research,Unknown,0,Data Exfiltration,5,Cyber espionage,2022
+2022-09-01,Disruption,Puerto Rico,Administration,Russia,0,Data Encrypted for Impact,1,Due diligence,2022
+2022-09-01,Hijacking,Australia,Government and Research,Unknown,0,Data Exfiltration,2,Cyber espionage,2022
+2022-09-01,Data theft,Guatemala,Government and Research,Unknown,0,Data Exfiltration,4,International peace,2022
+2022-09-01,Ransomware,United Arab Emirates,Critical Manufacturing,Iran,1,Data Exfiltration,3,Human rights,2022
+2022-09-01,Disruption,Russia,Administration,Unknown,0,Data Destruction,3,Due diligence,2022
+2023-09-01,Disruption,Belgium,Administration,Unknown,0,Network Denial of Service,1,Human rights,2023
+2023-09-01,Data theft,Taiwan,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-09-01,Data theft,Philippines,Government and Research,Unknown,0,Data Exfiltration,2,Due diligence,2023
+2023-09-01,Ransomware,France,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Due diligence,2023
+2023-09-01,Disruption,Germany,Administration,Unknown,0,Network Denial of Service,1,Sovereignty,2023
+2023-09-01,Disruption,Senegal,Administration,Unknown,0,Account Access Removal,1,Sovereignty,2023
+2024-09-01,Disruption,Turkey,Critical Manufacturing,Unknown,0,Defacement,1,Sovereignty,2024
+2024-09-01,Data theft,France,Administration,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-09-01,Disruption,Germany,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,4,Human rights,2024
+2020-10-01,Ransomware,Canada,Government and Research,Iran,1,Data Encrypted for Impact,2,Sovereignty,2020
+2021-10-01,Data theft,Ukraine,Government and Research,Russia,0,Data Exfiltration,2,Cyber espionage,2021
+2022-10-01,Data theft,Japan,Administration,China,0,Data Exfiltration,2,Cyber espionage,2022
+2022-10-01,Data theft,United States,Not available,Unknown,0,Data Exfiltration,2,Human rights,2022
+2022-10-01,Data theft,Asia region,Critical Manufacturing,Asia region,0,Data Exfiltration,3,Sovereignty,2022
+2022-10-01,Data theft,Korea,Military,Korea,0,Data Exfiltration,3,Cyber espionage,2022
+2022-10-01,Data theft,Australia,Critical Manufacturing,Russia,3,Data Exfiltration,5,Human rights,2022
+2022-10-01,Data theft,Russia,Administration,Belarus,0,Data Exfiltration,4,Due diligence,2022
+2023-10-01,Data theft,India,Government and Research,Unknown,0,Data Exfiltration,3,Sovereignty,2023
+2023-10-01,Data theft,Iran,Other,Russia,0,Data Exfiltration,2,Cyber espionage,2023
+2023-10-01,Hijacking,United States,Government and Research,China,0,System Shutdown/Reboot,1,Human rights,2023
+2023-10-01,Ransomware,Australia,Finance,Unknown,0,Data Exfiltration,4,Human rights,2023
+2023-10-01,Data theft,United States,Critical Manufacturing,Russia,0,Data Exfiltration,4,Air law,2023
+2023-10-01,Data theft,China,Government and Research,China,0,Data Exfiltration,3,Cyber espionage,2023
+2023-10-01,Data theft,United States,Finance,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-10-01,Ransomware,United States,Administration,Unknown,0,Data Exfiltration,4,Human rights,2023
+2023-10-01,Ransomware,Philippines,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Human rights,2023
+2023-10-01,Ransomware,Senegal,Administration,Russia,0,Data Exfiltration,4,Human rights,2023
+2023-10-01,Disruption,United Kingdom,Government and Research,Russia,0,Network Denial of Service,1,Due diligence,2023
+2023-10-01,Disruption,Palestine,Critical Manufacturing,Unknown,0,Data Manipulation,1,Armed conflict,2023
+2023-10-01,Data theft,Russia,Finance,Ukraine,0,Data Exfiltration,2,Due diligence,2023
+2024-10-01,Data theft,Serbia,Government,Serbia,1,Data Exfiltration,1,Human rights,2024
+2024-10-01,Hijacking,Brazil,Administration,Unknown,0,Data Manipulation,1,Sovereignty,2024
+2024-10-01,Ransomware,Hungary,Administration,Unknown,1,Data Exfiltration,4,Cyber espionage,2024
+2024-10-01,Data theft,United States,Finance,Unknown,0,Data Exfiltration,2,Human rights,2024
+2018-11-01,Data theft,Poland,Administration,Poland,0,Data Exfiltration,2,Human rights,2018
+2021-11-01,Data theft,United States,Other,Unknown,0,Data Exfiltration,2,Human rights,2021
+2022-11-01,Hijacking,United States,Critical Manufacturing,Unknown,0,Data Manipulation,1,Sovereignty,2022
+2022-11-01,Data theft,Korea,Military,Korea,0,Data Exfiltration,3,Cyber espionage,2022
+2022-11-01,Data theft,Africa region,Critical Manufacturing,China,0,Data Exfiltration,1,Cyber espionage,2022
+2022-11-01,Data theft,Africa region,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Cyber espionage,2022
+2023-11-01,Data theft,Japan,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Due diligence,2023
+2023-11-01,Ransomware,Japan,Finance,Unknown,0,Data Exfiltration,4,Human rights,2023
+2023-11-01,Data theft,United States,Government and Research,Unknown,0,Data Exfiltration,4,Human rights,2023
+2023-11-01,Data theft,United States,Administration,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-11-01,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Human rights,2023
+2023-11-01,Data theft,United States,Administration,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-11-01,Data theft,Belgium,Administration,Iran,0,Data Exfiltration,2,Cyber espionage,2023
+2023-11-01,Data theft,Mongolia,Government and Research,Russia,0,Data Exfiltration,2,Cyber espionage,2023
+2023-11-01,Data theft,Poland,Government,Russia,0,Data Exfiltration,2,Human rights,2023
+2023-11-01,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Human rights,2023
+2023-11-01,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2023
+2023-11-01,Data theft,Puerto Rico,Administration,Unknown,0,Data Exfiltration,2,Sovereignty,2023
+2023-11-01,Disruption,Singapore,Critical Manufacturing,Unknown,0,Network Denial of Service,1,Human rights,2023
+2023-11-01,Ransomware,Estonia,Critical Manufacturing,Unknown,1,Data Exfiltration,3,Human rights,2023
+2023-11-01,Data theft,China,Government and Research,China,0,Data Exfiltration,2,Cyber espionage,2023
+2023-11-01,Data theft,Israel,Critical Manufacturing,Iran,0,Data Exfiltration,3,Armed conflict,2023
+2023-11-01,Data theft,United States,Administration,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-11-01,Data theft,Spain,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-11-01,Data theft,United Kingdom,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2023
+2024-11-01,Data theft,Namibia,Critical Manufacturing,Unknown,1,Data Exfiltration,5,Human rights,2024
+2024-11-01,Hijacking,United States,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2024
+2024-11-01,Disruption,United Kingdom,Administration,Russia,1,Network Denial of Service,1,Sovereignty,2024
+2024-11-01,Data theft,France,Finance,Unknown,1,Data Exfiltration,2,Human rights,2024
+2022-12-01,Data theft,Afghanistan,Government and Research,Russia,0,Data Exfiltration,5,Cyber espionage,2022
+2022-12-01,Data theft,Austalia,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2022
+2022-12-01,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2022
+2022-12-01,Data theft,United States,Finance,Unknown,0,Data Exfiltration,3,Human rights,2022
+2022-12-01,Hijacking,India,Critical Manufacturing,Unknown,0,Data Manipulation,1,Sovereignty,2022
+2022-12-01,Data theft,Japan,Critical Manufacturing,China,1,Data Exfiltration,2,Human rights,2022
+2022-12-01,Data theft,Germany,Administration,Russia,0,Data Exfiltration,2,Human rights,2022
+2022-12-01,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2022
+2022-12-01,Hijacking,United States,Other,Unknown,0,Defacement,1,Human rights,2022
+2022-12-01,Data theft,Afghanistan,Government and Research,Pakistan,0,Data Exfiltration,1,Cyber espionage,2022
+2022-12-01,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2022
+2023-12-01,Hijacking,Ukraine,Finance,Russia,0,Data Manipulation,1,Cyber espionage,2023
+2023-12-01,Data theft,Europe region,Government and Research,Unknown,0,Data Exfiltration,2,Sovereignty,2023
+2023-12-01,Data theft,Korea,Critical Manufacturing,Korea,1,Data Exfiltration,2,Cyber espionage,2023
+2023-12-01,Disruption,France,Other,Unknown,0,Data Manipulation,1,Sovereignty,2023
+2023-12-01,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-12-01,Ransomware,United States,Administration,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-12-01,Data theft,Germany,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Sovereignty,2023
+2023-12-01,Data theft,France,Administration,Unknown,0,Data Exfiltration,2,Human rights,2023
+2024-12-01,Disruption,United States,Critical Manufacturing,Unknown,0,Network Denial of Service,1,Human rights,2024
+2024-12-01,Ransomware,New Zealand,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Cyber espionage,2024
+2024-01-02,Hijacking,Korea,Government and Research,Unknown,0,Account Access Removal,1,Sovereignty,2024
+2023-02-02,Disruption,United States,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,3,Human rights,2023
+2023-02-02,Disruption,Italy,Critical Manufacturing,Unknown,3,Data Encrypted for Impact,1,Human rights,2023
+2024-02-02,Data theft,Venezuela,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Human rights,2024
+2024-02-02,Hijacking,Argentina,Government and Research,Unknown,0,Account Access Removal,1,Sovereignty,2024
+2024-02-02,Ransomware,Germany,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-02-02,Ransomware,Iceland,Government and Research,Russia,0,Data Exfiltration,3,Human rights,2024
+2023-03-02,Disruption,Spain,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Human rights,2023
+2024-04-02,Disruption,United States,Administration,Unknown,1,Data Encrypted for Impact,1,Sovereignty,2024
+2024-04-02,Disruption,Vietnam,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2024
+2022-05-02,Disruption,Russia,Administration,Ukraine,0,Network Denial of Service,1,Due diligence,2022
+2023-05-02,Disruption,Sweden,Government and Research,Unknown,1,Network Denial of Service,1,Sovereignty,2023
+2024-06-02,Disruption,Mexico,Government,Unknown,0,Network Denial of Service,1,Sovereignty,2024
+2023-07-02,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2023
+2024-07-02,Data theft,United States,Government,Unknown,0,Data Exfiltration,4,Human rights,2024
+2022-08-02,Disruption,Russia,Critical Manufacturing,Ukraine,0,Disk Wipe,1,Armed conflict,2022
+2023-08-02,Data theft,Argentina,Administration,Unknown,0,Data Exfiltration,4,Human rights,2023
+2024-08-02,Ransomware,Belgium,Government and Research,Unknown,0,Data Exfiltration,3,Human rights,2024
+2024-08-02,Disruption,Venezuela,Critical Manufacturing,Unknown,1,Network Denial of Service,1,Due diligence,2024
+2024-09-02,Disruption,Colombia,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2024
+2024-09-02,Disruption,France,Administration,Russia,0,Network Denial of Service,1,Due diligence,2024
+2023-10-02,Data theft,United States,Administration,Unknown,0,Data Exfiltration,2,Human rights,2023
+2024-10-02,Disruption,United States,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2024
+2022-12-02,Disruption,Mexico,Government and Research,Unknown,1,Data Encrypted for Impact,1,Sovereignty,2022
+2024-12-02,Data theft,Spain,Administration,Unknown,1,Data Exfiltration,3,Human rights,2024
+2024-12-02,Ransomware,United States,Other,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-01-03,Disruption,Spain,Critical Manufacturing,Unknown,0,Data Manipulation,1,Sovereignty,2024
+2024-02-03,Data theft,Argentina,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2023-03-03,Data theft,United States,Government and Research,Unknown,0,Data Exfiltration,1,Human rights,2023
+2023-04-03,Disruption,United States,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Human rights,2023
+2023-05-03,Data theft,Italy,Administration,Unknown,1,Data Exfiltration,5,Human rights,2023
+2024-05-03,Disruption,Russia,Critical Manufacturing,Ukraine,0,Network Denial of Service,1,Human rights,2024
+2023-06-03,Disruption,Japan,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2023
+2023-06-03,Data theft,Germany,Finance,Unknown,0,Data Exfiltration,4,Human rights,2023
+2024-06-03,Data theft,United Kingdom,Critical Manufacturing,Russia,1,Data Exfiltration,5,Human rights,2024
+2023-08-03,Ransomware,Canada,Critical Manufacturing,Russia,0,Data Exfiltration,4,Due diligence,2023
+2024-08-03,Disruption,France,Administration,Unknown,0,Data Encrypted for Impact,1,Due diligence,2024
+2023-10-03,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2023
+2023-11-03,Disruption,Netherlands,Critical Manufacturing,Russia,0,Network Denial of Service,1,Due diligence,2023
+2024-11-03,Data theft,Serbia,Government,Serbia,1,Data Exfiltration,3,Human rights,2024
+2024-11-03,Disruption,Moldova,Government,Unknown,0,Network Denial of Service,1,Human rights,2024
+2022-12-03,Disruption,France,Critical Manufacturing,Unknown,1,Data Encrypted for Impact,3,Human rights,2022
+2024-12-03,Data theft,United States,Other,Unknown,0,Data Exfiltration,1,Due diligence,2024
+2024-01-04,Disruption,Paraguay,Government and Research,Unknown,1,Data Encrypted for Impact,1,Due diligence,2024
+2024-02-04,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Due diligence,2024
+2024-02-04,Disruption,United States,Government and Research,Unknown,0,Network Denial of Service,1,Sovereignty,2024
+2022-04-04,Disruption,Bulgaria,Administration,Russia,1,Data Destruction,3,Sovereignty,2022
+2023-04-04,Disruption,Germany,Military,Unknown,5,Network Denial of Service,1,Due diligence,2023
+2023-04-04,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Human rights,2023
+2023-04-04,Disruption,United States,Administration,Unknown,0,Data Encrypted for Impact,1,Due diligence,2023
+2023-04-04,Disruption,Israel,Government and Research,Russia,0,Network Denial of Service,1,Human rights,2023
+2023-04-04,Disruption,Finland,Administration,Russia,0,Network Denial of Service,1,Due diligence,2023
+2024-04-04,Disruption,Germany,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Human rights,2024
+2023-05-04,Disruption,Netherlands,Government and Research,Russia,0,Network Denial of Service,1,Due diligence,2023
+2023-05-04,Ransomware,Australia,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2023
+2023-05-04,Data theft,China,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2024-05-04,Data theft,Germany,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Human rights,2024
+2024-05-04,Ransomware,United States,Administration,Unknown,0,Data Exfiltration,2,Air law,2024
+2024-05-04,Disruption,United States,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Human rights,2024
+2020-06-04,Data theft,Poland,Not available,China,0,Data Exfiltration,2,Human rights,2020
+2024-06-04,Disruption,Vietnam,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2024
+2023-07-04,Disruption,Japan,Critical Manufacturing,Unknown,1,Data Encrypted for Impact,1,Law of the sea,2023
+2024-08-04,Disruption,United States,Administration,Unknown,0,Network Denial of Service,1,Human rights,2024
+2024-08-04,Disruption,United Kingdom,Administration,Unknown,1,Data Destruction,3,Human rights,2024
+2023-09-04,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Human rights,2023
+2023-10-04,Hijacking,Russia,Government,Ukraine,0,Defacement,1,Armed conflict,2023
+2023-12-04,Data theft,United States,Finance,Unknown,0,Data Exfiltration,2,Human rights,2023
+2024-12-04,Disruption,United States,Critical Manufacturing,Unknown,0,Network Denial of Service,1,Human rights,2024
+2024-12-04,Ransomware,United Kingdom,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2024
+2024-02-05,Disruption,Austria,Administration,Russia,0,Data Encrypted for Impact,1,Due diligence,2024
+2024-03-05,Disruption,Sweden,Administration,Russia,0,Network Denial of Service,1,Due diligence,2024
+2024-03-05,Ransomware,Belgium,Other,Unknown,0,Data Exfiltration,2,Due diligence,2024
+2024-04-05,Ransomware,United States,Administration,Unknown,0,Data Exfiltration,2,Human rights,2024
+2023-05-05,Disruption,United States,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Human rights,2023
+2023-05-05,Disruption,France,Government and Research,Russia,0,Network Denial of Service,1,Due diligence,2023
+2024-05-05,Ransomware,Netherlands,Administration,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-05-05,Data theft,France,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Human rights,2024
+2024-05-05,Data theft,Spain,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2022-06-05,Disruption,Ukraine,Not available,Unknown,0,Defacement,1,Due diligence,2022
+2023-06-05,Disruption,United States,Critical Manufacturing,Sudan,0,Network Denial of Service,1,Due diligence,2023
+2024-07-05,Ransomware,Australia,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2024
+2024-07-05,Hijacking,Nepal,Government and Research,Unknown,0,Network Denial of Service,1,Due diligence,2024
+2022-08-05,Disruption,United States,Military,Russia,0,Network Denial of Service,1,Due diligence,2022
+2023-09-05,Disruption,Spain,Administration,Russia,1,Data Encrypted for Impact,1,Due diligence,2023
+2024-09-05,Data theft,United States,Finance,Unknown,0,Data Exfiltration,3,Human rights,2024
+2024-09-05,Ransomware,United States,Critical Manufacturing,Unknown,1,Data Exfiltration,2,Human rights,2024
+2024-09-05,Data theft,Germany,Government and Research,Unknown,1,Data Exfiltration,3,Human rights,2024
+2023-10-05,Disruption,Australia,Government and Research,Unknown,1,Network Denial of Service,1,Sovereignty,2023
+2023-10-05,Data theft,United States,Government,Unknown,1,Data Exfiltration,3,Due diligence,2023
+2024-10-05,Data theft,Japan,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2024
+2023-11-05,Disruption,Israel,Not available,Unknown,0,Defacement,1,Armed conflict,2023
+2024-11-05,Disruption,Korea,Government and Research,Russia,1,Network Denial of Service,1,Sovereignty,2024
+2024-11-05,Data theft,Israel,Government and Research,Iran,1,Data Exfiltration,3,Cyber espionage,2024
+2022-12-05,Disruption,Argentina,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2022
+2022-12-05,Ransomware,Belgium,Administration,Unknown,1,Data Exfiltration,2,Human rights,2022
+2023-12-05,Ransomware,Australia,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2024-02-06,Data theft,France,Administration,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-02-06,Disruption,Uganda,Critical Manufacturing,Unknown,0,Network Denial of Service,1,Due diligence,2024
+2024-02-06,Disruption,Spain,Administration,Russia,0,Network Denial of Service,1,Due diligence,2024
+2023-03-06,Disruption,Italy,Government and Research,Russia,0,Network Denial of Service,1,Due diligence,2023
+2023-03-06,Ransomware,Netherlands,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Human rights,2023
+2024-03-06,Data theft,United States,Finance,Unknown,0,Data Exfiltration,2,Human rights,2024
+2023-04-06,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2023
+2023-04-06,Ransomware,United States,Administration,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-04-06,Ransomware,Austria,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2021-05-06,Ransomware,United States,Critical Manufacturing,Russia,3,Data Exfiltration,5,Due diligence,2021
+2024-05-06,Disruption,Brazil,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Law of the sea,2024
+2023-06-06,Disruption,Netherlands,Critical Manufacturing,Russia,0,Network Denial of Service,1,Law of the sea,2023
+2024-06-06,Ransomware,Spain,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-06-06,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2024
+2024-06-06,Disruption,Netherlands,Government and Research,Russia,0,Network Denial of Service,1,Due diligence,2024
+2024-06-06,Disruption,Italy,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Human rights,2024
+2024-07-06,Disruption,Turkey,Critical Manufacturing,Unknown,0,Network Denial of Service,1,Due diligence,2024
+2023-08-06,Data theft,Russia,Administration,Ukraine,0,Data Exfiltration,4,Human rights,2023
+2024-08-06,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,1,Human rights,2024
+2024-08-06,Disruption,United Kingdom,Critical Manufacturing,Unknown,0,Network Denial of Service,1,Law of the sea,2024
+2024-08-06,Data theft,Poland,Administration,Russia,0,Data Exfiltration,5,Human rights,2024
+2022-09-06,Disruption,Japan,Government and Research,Russia,1,Network Denial of Service,1,Due diligence,2022
+2023-09-06,Disruption,United Kingdom,Administration,Unknown,0,Data Encrypted for Impact,1,Human rights,2023
+2024-10-06,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Human rights,2024
+2021-01-07,Data theft,Korea,Government and Research,Korea,1,Data Exfiltration,2,Human rights,2021
+2023-02-07,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2024-02-07,Disruption,France,Critical Manufacturing,Unknown,0,Network Denial of Service,1,Due diligence,2024
+2024-02-07,Disruption,Ukraine,Government and Research,Russia,0,Network Denial of Service,1,Armed conflict,2024
+2022-03-07,Disruption,Norway,Administration,Unknown,1,Network Denial of Service,1,Armed conflict,2022
+2023-03-07,Disruption,Germany,Military,Unknown,0,Network Denial of Service,1,Sovereignty,2023
+2024-03-07,Data theft,United States,Other,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-03-07,Data theft,United Kingdom,Administration,Unknown,0,Data Exfiltration,5,Human rights,2024
+2024-03-07,Hijacking,Mexico,Administration,Unknown,0,Defacement,1,Due diligence,2024
+2024-03-07,Data theft,India,Government and Research,Unknown,0,Data Exfiltration,2,Human rights,2024
+2023-04-07,Disruption,United States,Military,Eastern Europe,0,Data Encrypted for Impact,1,Sovereignty,2023
+2023-04-07,Ransomware,United States,Administration,Unknown,0,Data Exfiltration,3,Human rights,2023
+2024-04-07,Hijacking,France,Administration,Turkey,0,Defacement,1,Due diligence,2024
+2023-05-07,Disruption,Romania,Government and Research,Unknown,0,Defacement,1,Human rights,2023
+2024-05-07,Disruption,Kosovo,Government and Research,Russia,2,Network Denial of Service,1,Sovereignty,2024
+2024-05-07,Ransomware,Italy,Administration,Unknown,0,Data Exfiltration,3,Human rights,2024
+2024-05-07,Disruption,United States,Critical Manufacturing,Unknown,0,Network Denial of Service,1,Sovereignty,2024
+2022-06-07,Disruption,Estonia,Finance,Russia,0,Network Denial of Service,1,Due diligence,2022
+2023-06-07,Disruption,Switzerland,Government and Research,Russia,1,Network Denial of Service,1,Due diligence,2023
+2023-06-07,Data theft,Germany,Administration,Unknown,0,Data Encrypted for Impact,2,Human rights,2023
+2022-07-07,Data theft,Spain,Not available,China,0,Data Exfiltration,2,Human rights,2022
+2023-07-07,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2023
+2023-07-07,Disruption,Japan,Other,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2023
+2024-08-07,Disruption,United States,Administration,Unknown,0,Data Encrypted for Impact,1,Due diligence,2024
+2024-08-07,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2024
+2023-10-07,Disruption,Israel,Government and Research,Iran,0,Data Destruction,3,Sovereignty,2023
+2024-10-07,Disruption,Belgium,Administration,Russia,1,Network Denial of Service,1,Due diligence,2024
+2022-11-07,Disruption,Russia,Finance,Ukraine,0,Service Stop,1,Due diligence,2022
+2023-11-07,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-01-08,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Human rights,2023
+2020-02-08,Disruption,United Kingdom,Administration,Unknown,1,Data Encrypted for Impact,3,Sovereignty,2020
+2023-02-08,Data theft,United States,Administration,Unknown,0,Data Encrypted for Impact,4,Due diligence,2023
+2024-02-08,Ransomware,Germany,Administration,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-02-08,Disruption,Russia,Finance,Ukraine,0,Service Stop,1,Armed conflict,2024
+2024-02-08,Hijacking,Guinea,Critical Manufacturing,Unknown,0,Defacement,1,Air law,2024
+2022-03-08,Hijacking,Russia,Administration,Unknown,0,Defacement,1,Sovereignty,2022
+2023-03-08,Hijacking,Brazil,Critical Manufacturing,Korea,5,Data Manipulation,1,Sovereignty,2023
+2023-03-08,Data theft,Indonesia,Finance,Unknown,0,Data Exfiltration,5,Human rights,2023
+2024-05-08,Ransomware,United States,Critical Manufacturing,Russia,0,Data Exfiltration,2,Human rights,2024
+2023-06-08,Disruption,Russia,Other,Unknown,0,Data Destruction,3,Armed conflict,2023
+2022-07-08,Disruption,Lithuania,Critical Manufacturing,Russia,1,Network Denial of Service,1,Due diligence,2022
+2023-07-08,Hijacking,India,Military,Unknown,0,Account Access Removal,1,Sovereignty,2023
+2024-07-08,Disruption,Liechtenstein,Government and Research,Russia,1,Network Denial of Service,1,Due diligence,2024
+2023-08-08,Ransomware,Switzerland,Administration,Unknown,0,Data Exfiltration,5,Human rights,2023
+2024-08-08,Disruption,Russia,Government and Research,Unknown,0,Network Denial of Service,1,Armed conflict,2024
+2024-08-08,Hijacking,United States,Administration,Unknown,0,Account Access Removal,1,Human rights,2024
+2023-09-08,Disruption,India,Military,Pakistan,0,Network Denial of Service,1,Due diligence,2023
+2022-11-08,Disruption,United States,Administration,Unknown,1,Network Denial of Service,1,Sovereignty,2022
+2023-11-08,Disruption,China,Finance,Russia,1,Data Exfiltration,1,Sovereignty,2023
+2022-12-08,Disruption,Denmark,Government and Research,Unknown,2,Network Denial of Service,1,Sovereignty,2022
+2023-12-08,Disruption,Italy;Italy,Administration,Russia,0,Data Encrypted for Impact,1,Due diligence,2023
+2023-12-08,Disruption,New Caledonia,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2023
+2023-12-08,Ransomware,Australia,Government and Research,Russia,0,Data Exfiltration,2,Human rights,2023
+2024-12-08,Ransomware,France,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Cyber espionage,2024
+2023-01-09,Data theft,United States,Critical Manufacturing,Switzerland,1,Data Exfiltration,5,Human rights,2023
+2024-01-09,Disruption,Finland,Government and Research,Unknown,0,Network Denial of Service,1,Sovereignty,2024
+2024-01-09,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-01-09,Ransomware,United States,Administration,Unknown,0,Data Exfiltration,1,Due diligence,2024
+2024-02-09,Disruption,United States,Government and Research,Unknown,0,Data Encrypted for Impact,1,Human rights,2024
+2024-03-09,Data theft,United States,Finance,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-03-09,Disruption,Germany,Administration,Unknown,0,Network Denial of Service,1,Sovereignty,2024
+2024-03-09,Disruption,Estonia,Administration,Unknown,0,Network Denial of Service,1,Sovereignty,2024
+2023-04-09,Disruption,Israel,Critical Manufacturing,Unknown,0,Defacement,1,Human rights,2023
+2024-04-09,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Sovereignty,2024
+2024-04-09,Data theft,Pakistan,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2022-05-09,Disruption,Estonia,Government and Research,Unknown,1,Network Denial of Service,1,Sovereignty,2022
+2023-05-09,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Human rights,2023
+2023-05-09,Disruption,Mexico,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2023
+2024-05-09,Hijacking,Latvia,Government and Research,Unknown,0,Defacement,1,Due diligence,2024
+2024-05-09,Hijacking,Ukraine,Government and Research,Russia,0,Defacement,1,Armed conflict,2024
+2017-06-09,Hijacking,Europe region,Other,Belarus,0,Data Manipulation,1,Cyber espionage,2017
+2023-06-09,Data theft,Bangladesh,Finance,Unknown,0,Data Exfiltration,4,Human rights,2023
+2023-06-09,Data theft,United Kingdom,Administration,Unknown,0,Data Exfiltration,3,Human rights,2023
+2024-06-09,Data theft,Korea,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Human rights,2024
+2024-07-09,Ransomware,United Kingdom,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-07-09,Disruption,United States,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2024
+2024-07-09,Hijacking,Bangladesh,Administration,India,0,Defacement,1,Due diligence,2024
+2024-08-09,Disruption,United States,Finance,Unknown,0,Account Access Removal,1,Sovereignty,2024
+2022-09-09,Data theft,Albania,Government and Research,Iran,0,Data Exfiltration,3,Sovereignty,2022
+2024-09-09,Ransomware,Italy,Administration,Unknown,0,Data Encrypted for Impact,2,Human rights,2024
+2023-10-09,Disruption,Israel,Critical Manufacturing,Unknown,0,Network Denial of Service,1,Armed conflict,2023
+2023-10-09,Disruption,Israel,Critical Manufacturing,Unknown,0,Network Denial of Service,1,Human rights,2023
+2023-11-09,Disruption,United States,Critical Manufacturing,Sudan,0,Network Denial of Service,1,Due diligence,2023
+2023-11-09,Disruption,Belgium,Government and Research,Russia,0,Network Denial of Service,1,Due diligence,2023
+2024-12-09,Hijacking,Turkey,Finance,Unknown,0,Defacement,2,Human rights,2024
+2024-12-09,Disruption,Denmark,Administration,Russia,0,Disk Wipe,1,Sovereignty,2024
+2022-01-10,Disruption,Ukraine,Administration,Russia,4,Data Destruction,1,Sovereignty,2022
+2024-01-10,Hijacking,Maldives,Government and Research,India,0,Defacement,1,Due diligence,2024
+2024-03-10,Disruption,France,Administration,Unknown,1,Network Denial of Service,1,Sovereignty,2024
+2024-04-10,Disruption,Slovenia,Government and Research,Unknown,1,Network Denial of Service,1,Sovereignty,2024
+2024-04-10,Ransomware,United States,Finance,Unknown,0,Data Exfiltration,2,Due diligence,2024
+2023-05-10,Data theft,Germany,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2023
+2024-05-10,Data theft,Spain,Finance,Unknown,0,Data Exfiltration,2,Sovereignty,2024
+2023-06-10,Disruption,Netherlands,Critical Manufacturing,Russia,0,Network Denial of Service,1,Law of the sea,2023
+2023-06-10,Ransomware,United States,Administration,Unknown,0,Data Exfiltration,2,Human rights,2023
+2024-07-10,Disruption,Macao,Administration,Unknown,0,Network Denial of Service,1,Sovereignty,2024
+2024-07-10,Data theft,Japan,Critical Manufacturing,Unknown,0,Data Exfiltration,1,Sovereignty,2024
+2024-07-10,Disruption,United States,Administration,Unknown,0,Data Encrypted for Impact,1,Human rights,2024
+2024-09-10,Data theft,United States,Critical Manufacturing,Unknown,1,Data Exfiltration,3,Human rights,2024
+2024-09-10,Data theft,Spain,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2024
+2022-10-10,Disruption,United States,Critical Manufacturing,Russia,0,Network Denial of Service,1,Due diligence,2022
+2022-10-10,Data theft,Ecuador,Government and Research,China,0,Data Exfiltration,2,Cyber espionage,2022
+2024-10-10,Data theft,France,Administration,Unknown,1,Data Exfiltration,2,Human rights,2024
+2023-11-10,Data theft,Australia,Critical Manufacturing,Unknown,1,Data Exfiltration,1,Law of the sea,2023
+2024-11-10,Disruption,Israel,Critical Manufacturing,Iran,1,Network Denial of Service,1,Armed conflict,2024
+2023-01-11,Disruption,Czech Republic,Government,Russia,1,Network Denial of Service,1,Due diligence,2023
+2024-01-11,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Due diligence,2024
+2023-02-11,Disruption,Europe region,Not available,Russia,1,Network Denial of Service,1,Disaster management,2023
+2023-02-11,Data theft,France,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Human rights,2023
+2023-02-11,Data theft,United States,Administration,Unknown,0,Data Exfiltration,2,Human rights,2023
+2024-02-11,Disruption,Romania,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Human rights,2024
+2024-02-11,Data theft,Lithuania,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2022-03-11,Disruption,Russia,Military,Ukraine,0,Network Denial of Service,1,Armed conflict,2022
+2022-04-11,Ransomware,Costa Rica,Administration,Unknown,2,Data Exfiltration,4,Sovereignty,2022
+2022-05-11,Disruption,Italy,Government and Research,Russia,1,Endpoint Denial of Service,1,Sovereignty,2022
+2023-05-11,Disruption,Ukraine,Critical Manufacturing,Russia,1,Data Destruction,1,Human rights,2023
+2023-06-11,Ransomware,United States,Government and Research,Unknown,0,Data Exfiltration,2,Human rights,2023
+2024-06-11,Disruption,Belgium,Administration,Unknown,0,Network Denial of Service,1,Sovereignty,2024
+2022-07-11,Disruption,Lithuania,Finance,Russia,0,Network Denial of Service,1,Due diligence,2022
+2022-08-11,Disruption,Latvia,Government and Research,Russia,1,Endpoint Denial of Service,1,Due diligence,2022
+2022-09-11,Disruption,Russia,Not available,Ukraine,0,Defacement,1,Armed conflict,2022
+2023-09-11,Disruption,Italy,Administration,Unknown,0,Network Denial of Service,1,Human rights,2023
+2024-09-11,Data theft,United Kingdom,Finance,Unknown,0,Data Exfiltration,3,Human rights,2024
+2024-09-11,Disruption,Taiwan,Finance,Russia,1,Network Denial of Service,1,Sovereignty,2024
+2020-10-11,Data theft,Armenia,Government,Unknown,0,Data Exfiltration,3,Cyber espionage,2020
+2023-10-11,Data theft,United States,Administration,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-11-11,Disruption,Spain,Government and Research,Unknown,0,Network Denial of Service,2,Human rights,2023
+2018-12-11,Data theft,China,Not available,China,0,Data Exfiltration,2,Human rights,2018
+2024-12-11,Disruption,Canada,Other,Unknown,0,Service Stop,1,Sovereignty,2024
+2023-01-12,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-02-12,Disruption,Israel,Administration,Iran,1,Data Encrypted for Impact,1,Human rights,2023
+2024-02-12,Data theft,India,Finance,Russia,0,Data Exfiltration,2,Due diligence,2024
+2023-03-12,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Human rights,2023
+2023-05-12,Disruption,Denmark,Administration,Unknown,0,Network Denial of Service,1,Sovereignty,2023
+2023-05-12,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2023
+2023-05-12,Disruption,France,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2023
+2023-06-12,Disruption,Switzerland,Administration,Russia,1,Network Denial of Service,1,Due diligence,2023
+2024-06-12,Disruption,United States,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2024
+2024-06-12,Data theft,United States,Critical Manufacturing,China,0,Data Exfiltration,2,Human rights,2024
+2024-06-12,Disruption,Russia,Critical Manufacturing,Ukraine,0,Defacement,1,Air law,2024
+2023-09-12,Ransomware,United States,Administration,Russia,0,Data Exfiltration,2,Human rights,2023
+2023-09-12,Ransomware,Chile,Administration,Unknown,1,Data Exfiltration,2,Human rights,2023
+2023-09-12,Disruption,Canada,Finance,Russia,1,Network Denial of Service,1,Due diligence,2023
+2023-10-12,Ransomware,United States,Government and Research,Unknown,0,Data Exfiltration,3,Human rights,2023
+2023-10-12,Disruption,Germany,Administration,Unknown,0,Network Denial of Service,1,Sovereignty,2023
+2023-10-12,Disruption,Belgium,Government and Research,Unknown,0,Network Denial of Service,1,Sovereignty,2023
+2024-10-12,Disruption,Italy,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2024
+2022-11-12,Disruption,Bahrain,Government,Unknown,1,Defacement,1,Due diligence,2022
+2023-11-12,Ransomware,Bangladesh,Military,Unknown,0,Data Exfiltration,4,Human rights,2023
+2023-11-12,Data theft,Netherlands,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-11-12,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2024-11-12,Data theft,Germany,Administration,Indonesia,0,Data Exfiltration,3,Human rights,2024
+2023-12-12,Disruption,Ukraine,Finance,Unknown,0,Network Denial of Service,1,Armed conflict,2023
+2024-02-13,Disruption,France,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2024
+2024-02-13,Data theft,Iran,Administration,Unknown,0,Data Exfiltration,5,Human rights,2024
+2023-03-13,Data theft,United Kingdom,Finance,Unknown,0,Data Exfiltration,3,Sovereignty,2023
+2023-03-13,Disruption,United States,Military,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2023
+2024-03-13,Disruption,Philippines,Government and Research,Unknown,1,Network Denial of Service,1,Sovereignty,2024
+2024-03-13,Disruption,Ukraine,Critical Manufacturing,Russia,0,Data Destruction,3,Armed conflict,2024
+2024-03-13,Disruption,United States,Administration,Sudan,0,Network Denial of Service,1,Due diligence,2024
+2023-04-13,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Human rights,2023
+2023-04-13,Ransomware,United States,Not available,Unknown,0,Data Exfiltration,2,Human rights,2023
+2024-04-13,Disruption,France,Administration,Unknown,0,Data Encrypted for Impact,1,Human rights,2024
+2024-04-13,Data theft,Dominica,Government and Research,Unknown,0,Data Exfiltration,2,Human rights,2024
+2022-05-13,Data theft,Ukraine,Administration,Russia,0,Data Exfiltration,4,Sovereignty,2022
+2024-05-13,Hijacking,United States,Finance,Unknown,1,Data Destruction,3,Human rights,2024
+2024-05-13,Data theft,Canada,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2023-06-13,Disruption,Switzerland,Critical Manufacturing,Russia,0,Network Denial of Service,1,Due diligence,2023
+2023-06-13,Ransomware,United States,Administration,Unknown,0,Data Exfiltration,3,Human rights,2023
+2024-06-13,Disruption,Israel,Critical Manufacturing,Unknown,0,Network Denial of Service,1,Sovereignty,2024
+2022-07-13,Data theft,Ukraine,Government and Research,Unknown,0,Data Exfiltration,2,Cyber espionage,2022
+2024-07-13,Disruption,Germany,Government and Research,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2024
+2024-10-13,Data theft,Korea,Not available,Korea,1,Data Exfiltration,2,Cyber espionage,2024
+2024-10-13,Disruption,Germany,Critical Manufacturing,Unknown,0,Data Exfiltration,1,Human rights,2024
+2024-11-13,Data theft,Canada,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Cyber espionage,2024
+2022-12-13,Data theft,United States,Administration,Unknown,0,Data Exfiltration,3,Human rights,2022
+2023-12-13,Ransomware,Belgium,Administration,Russia,0,Data Exfiltration,2,Human rights,2023
+2024-12-13,Data theft,Chile,Administration,China,1,Defacement,4,Human rights,2024
+2023-01-14,Data theft,United States,Other,Unknown,0,Data Exfiltration,2,Human rights,2023
+2021-02-14,Disruption,United States,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Human rights,2021
+2023-02-14,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Human rights,2023
+2022-03-14,Disruption,Ukraine,Critical Manufacturing,Russia,0,Disk Wipe,1,International peace,2022
+2024-03-14,Disruption,Palau,Government and Research,Malaysia,1,Data Encrypted for Impact,1,Due diligence,2024
+2024-03-14,Disruption,United States,Administration,Unknown,0,Data Encrypted for Impact,1,Human rights,2024
+2022-04-14,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2022
+2023-04-14,Disruption,Israel,Critical Manufacturing,Unknown,0,Network Denial of Service,1,Due diligence,2023
+2024-04-14,Data theft,Mexico,Finance,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-04-14,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2023-05-14,Disruption,United States,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Due diligence,2023
+2023-05-14,Disruption,Turkey,Not available,Unknown,0,Network Denial of Service,1,Human rights,2023
+2023-06-14,Disruption,Switzerland,Government and Research,Russia,0,Network Denial of Service,1,Due diligence,2023
+2023-07-14,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2023
+2024-07-14,Data theft,Germany,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-07-14,Hijacking,India,Finance,Korea,0,Data Manipulation,1,Human rights,2024
+2024-08-14,Data theft,Iran,Finance,Unknown,0,Data Exfiltration,2,Human rights,2024
+2023-09-14,Ransomware,Dominican Republic,Administration,Unknown,1,Data Exfiltration,2,Human rights,2023
+2023-10-14,Disruption,Switzerland,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Human rights,2023
+2023-10-14,Disruption,Belgium,Government and Research,Unknown,0,Network Denial of Service,1,Sovereignty,2023
+2023-10-14,Disruption,Guatemala,Government and Research,Unknown,0,Network Denial of Service,1,Due diligence,2023
+2024-10-14,Data theft,France,Administration,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-10-14,Data theft,Japan,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Cyber espionage,2024
+2022-11-14,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2022
+2022-12-14,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2022
+2023-12-14,Disruption,Argentina,Administration,Unknown,0,Data Encrypted for Impact,1,Human rights,2023
+2022-02-15,Disruption,Azerbaijan,Government,Unknown,0,Account Access Removal,3,Human rights,2022
+2024-02-15,Disruption,Japan,Other,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2024
+2022-03-15,Data theft,Russia,Military,Unknown,0,Data Exfiltration,4,Armed conflict,2022
+2022-03-15,Data theft,Russia,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Human rights,2022
+2024-03-15,Disruption,France,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2024
+2021-04-15,Disruption,India,Critical Manufacturing,Korea,0,Data Encrypted for Impact,3,Human rights,2021
+2024-04-15,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Human rights,2024
+2024-04-15,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2024
+2024-04-15,Data theft,Taiwan,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Due diligence,2024
+2023-05-15,Data theft,United States,Government,China,3,Data Exfiltration,3,Cyber espionage,2023
+2024-05-15,Data theft,Singapore,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2023-06-15,Data theft,Slovenia,Administration,Unknown,0,Data Exfiltration,2,Sovereignty,2023
+2024-06-15,Disruption,France,Government and Research,Russia,0,Network Denial of Service,1,Due diligence,2024
+2024-06-15,Ransomware,United States,Critical Manufacturing,Malaysia,0,Data Exfiltration,2,Due diligence,2024
+2022-07-15,Data theft,Ukraine,Government and Research,Russia,0,Data Exfiltration,4,Cyber espionage,2022
+2023-07-15,Disruption,United States,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2023
+2023-08-15,Disruption,United States,Administration,Unknown,0,Data Encrypted for Impact,1,Human rights,2023
+2024-08-15,Data theft,Korea,Government and Research,Unknown,0,Data Exfiltration,2,Human rights,2024
+2022-09-15,Data theft,Lebanon,Government,Iran,0,Data Exfiltration,3,Human rights,2022
+2024-09-15,Disruption,Mexico,Administration,Unknown,0,Defacement,1,Due diligence,2024
+2022-10-15,Disruption,Bugaria,Government and Research,Russia,0,Network Denial of Service,1,Due diligence,2022
+2024-10-15,Disruption,Japan,Administration,Russia,1,Endpoint Denial of Service,1,Air law,2024
+2022-11-15,Disruption,Germany,Critical Manufacturing,Unknown,0,Data Destruction,3,Sovereignty,2022
+2024-11-15,Ransomware,Mexico,Administration,Unknown,1,Data Exfiltration,5,Human rights,2024
+2022-12-15,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Human rights,2022
+2023-12-15,Data theft,Ukraine,Government and Research,Russia,1,Data Exfiltration,2,Armed conflict,2023
+2024-01-16,Disruption,Poland,Finance,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2024
+2023-02-16,Disruption,Germany,Critical Manufacturing,Unknown,0,Network Denial of Service,1,Air law,2023
+2023-02-16,Ransomware,United States,Critical Manufacturing,Russia,0,Data Exfiltration,2,Due diligence,2023
+2024-02-16,Data theft,Russia,Administration,"Ukraine, Russia",0,Data Exfiltration,2,Human rights,2024
+2024-02-16,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2022-03-16,Hijacking,Russia,Government and Research,Ukraine,0,Defacement,1,Armed conflict,2022
+2022-04-16,Disruption,United States,Critical Manufacturing,Russia,0,Network Denial of Service,1,Due diligence,2022
+2024-04-16,Ransomware,Italy,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2022-05-16,Disruption,Italy,Military,Russia,0,Endpoint Denial of Service,1,Sovereignty,2022
+2023-05-16,Data theft,Germany,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-06-16,Data theft,Africa region,Government and Research,Unknown,0,Data Exfiltration,2,Cyber espionage,2023
+2023-06-16,Disruption,Switzerland,Government and Research,Russia,0,Network Denial of Service,1,Due diligence,2023
+2023-06-16,Data theft,Switzerland,Critical Manufacturing,Russia,1,Data Exfiltration,5,Due diligence,2023
+2023-06-16,Data theft,Mexico,Administration,Mexico,0,Data Exfiltration,3,Cyber espionage,2023
+2023-06-16,Data theft,Pakistan,Not available,India,0,Data Exfiltration,2,Cyber espionage,2023
+2024-06-16,Disruption,United States,Administration,Unknown,0,Data Encrypted for Impact,1,Human rights,2024
+2023-07-16,Disruption,New Zealand,Government and Research,Russia,0,Network Denial of Service,1,Due diligence,2023
+2019-08-16,Disruption,United States,Administration,Russia,0,Data Encrypted for Impact,1,Sovereignty,2019
+2022-08-16,Disruption,Ukraine,Critical Manufacturing,Russia,0,Network Denial of Service,1,Armed conflict,2022
+2024-09-16,Disruption,United Kingdom,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2024
+2024-09-16,Disruption,Germany,Administration,Unknown,0,Data Encrypted for Impact,1,Human rights,2024
+2023-10-16,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2024-10-16,Data theft,China,Finance,Korea,0,Account Access Removal,1,Sovereignty,2024
+2023-01-17,Ransomware,United Kingdom,Military,Unknown,0,Data Exfiltration,2,Sovereignty,2023
+2024-01-17,Disruption,Switzerland,Administration,Russia,0,Network Denial of Service,1,Due diligence,2024
+2022-02-17,Data theft,Netherlands,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Human rights,2022
+2023-02-17,Ransomware,United States,Military,Unknown,0,Data Exfiltration,5,Human rights,2023
+2024-02-17,Hijacking,Ukraine,Not available,Russia,1,Defacement,1,Armed conflict,2024
+2024-04-17,Data theft,Germany,Critical Manufacturing,Russia,0,Data Exfiltration,3,Human rights,2024
+2022-05-17,Data theft,United States,Administration,Unknown,0,Data Exfiltration,3,International peace,2022
+2023-05-17,Data theft,Australia,Administration,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-05-17,Disruption,Sri Lanka,Administration,Unknown,0,Data Encrypted for Impact,3,Sovereignty,2023
+2024-05-17,Hijacking,Dominican Republic,Government and Research,Unknown,1,Defacement,1,Sovereignty,2024
+2022-06-17,Disruption,Russia,Government and Research,Ukraine,1,Network Denial of Service,1,Armed conflict,2022
+2023-06-17,Disruption,Italy,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2023
+2024-06-17,Ransomware,Austria,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2023-08-17,Disruption,France,Administration,Unknown,0,Data Encrypted for Impact,1,Due diligence,2023
+2023-08-17,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Human rights,2023
+2024-08-17,Data theft,United States,Finance,Unknown,0,Data Exfiltration,2,Human rights,2024
+2023-09-17,Disruption,Canada,Critical Manufacturing,Unknown,0,Network Denial of Service,1,Air law,2023
+2024-09-17,Ransomware,United States,Administration,Unknown,1,Data Exfiltration,5,Human rights,2024
+2023-10-17,Data theft,Germany,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2024-11-17,Data theft,France,Administration,Unknown,1,Data Exfiltration,2,Human rights,2024
+2024-11-17,Data theft,Australia,Critical Manufacturing,Unknown,1,Data Exfiltration,2,Human rights,2024
+2023-12-17,Data theft,South Africa region,Administration,Unknown,0,Data Exfiltration,2,Human rights,2023
+2024-12-17,Disruption,Germany,Critical Manufacturing,Russia,0,Network Denial of Service,1,Sovereignty,2024
+2023-01-18,Disruption,Kazakhstan;Kazakhstan,Not available,Kazakhstan,3,Defacement,1,Human rights,2023
+2024-01-18,Data theft,Italy,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Sovereignty,2024
+2024-01-18,Disruption,Belgium,Critical Manufacturing,Unknown,0,Network Denial of Service,1,Sovereignty,2024
+2024-02-18,Data theft,Australia,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-02-18,Data theft,Canada,Administration,Unknown,0,Data Exfiltration,1,Human rights,2024
+2024-03-18,Data theft,Canada,Government and Research,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-03-18,Data theft,Denmark,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Sovereignty,2024
+2024-03-18,Data theft,Belgium,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-03-18,Disruption,United States,Administration,Unknown,0,Data Encrypted for Impact,1,Due diligence,2024
+2023-04-18,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2023
+2023-04-18,Ransomware,United States,Administration,Unknown,0,Data Exfiltration,3,Human rights,2023
+2023-04-18,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2023
+2023-05-18,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Human rights,2023
+2024-05-18,Data theft,Taiwan,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-06-18,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Due diligence,2024
+2024-07-18,Data theft,United States,Administration,Russia,0,Data Exfiltration,2,Human rights,2024
+2023-08-18,Disruption,Denmark,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2023
+2024-08-18,Data theft,United Kingdom,Other,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-08-18,Ransomware,New Caledonia,Critical Manufacturing,Unknown,0,Data Exfiltration,1,Sovereignty,2024
+2023-09-18,Ransomware,Kuwait,Government and Research,Unknown,1,Data Exfiltration,2,Due diligence,2023
+2022-11-18,Disruption,United States,Critical Manufacturing,Russia,0,Network Denial of Service,1,Due diligence,2022
+2024-11-18,Data theft,Turkey,Military,South Asia region,0,Data Exfiltration,2,Cyber espionage,2024
+2024-11-18,Data theft,United States,Finance,Unknown,0,Data Exfiltration,3,Human rights,2024
+2024-11-18,Hijacking,Italy,Administration,Unknown,1,Data Encrypted for Impact,1,Due diligence,2024
+2023-12-18,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-01-19,Disruption,Estonia,Government and Research,Unknown,1,Network Denial of Service,1,Sovereignty,2023
+2024-01-19,Disruption,Seychelles,Finance,Unknown,0,Network Denial of Service,1,Sovereignty,2024
+2024-01-19,Disruption,Sweden,Government and Research,Unknown,0,Data Encrypted for Impact,1,Human rights,2024
+2023-02-19,Disruption,Sweden,Critical Manufacturing,Sudan,0,Network Denial of Service,1,Due diligence,2023
+2024-02-19,Ransomware,Netherlands,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Sovereignty,2024
+2024-02-19,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2024
+2024-02-19,Disruption,United Kingdom,Administration,Sudan,0,Network Denial of Service,1,Human rights,2024
+2024-03-19,Hijacking,Germany,Administration,Unknown,0,Defacement,1,Sovereignty,2024
+2022-04-19,Disruption,Israel,Administration,Iran,0,Network Denial of Service,1,Air law,2022
+2023-04-19,Disruption,Europe region,Critical Manufacturing,Russia,0,Network Denial of Service,1,Air law,2023
+2024-05-19,Ransomware,Japan,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2024
+2023-08-19,Disruption,United States,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Human rights,2023
+2023-09-19,Disruption,Germany,Administration,Unknown,0,Network Denial of Service,1,Sovereignty,2023
+2023-10-19,Disruption,Finland,Critical Manufacturing,Unknown,0,Network Denial of Service,1,Law of the sea,2023
+2024-10-19,Data theft,Spain,Critical Manufacturing,Unknown,1,Data Exfiltration,2,Human rights,2024
+2024-11-19,Hijacking,United States,Critical Manufacturing,Unknown,0,Account Access Removal,1,Sovereignty,2024
+2022-12-19,Data theft,United States,Administration,Unknown,0,Data Exfiltration,2,Human rights,2022
+2023-12-19,Data theft,Australia,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2024-12-19,Disruption,Ukraine,Government and Research,Russia,1,Data Destruction,1,Armed conflict,2024
+2023-01-20,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Human rights,2023
+2023-01-20,Data theft,United States,Government and Research,Unknown,1,Data Exfiltration,3,Human rights,2023
+2022-02-20,Disruption,China,Not available,Iran,0,Data Destruction,3,Due diligence,2022
+2023-02-20,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2023
+2024-02-20,Disruption,Germany,Administration,Unknown,0,Data Encrypted for Impact,1,Human rights,2024
+2024-02-20,Hijacking,Germany,Critical Manufacturing,Turkey,0,Account Access Removal,1,Due diligence,2024
+2024-02-20,Disruption,Belgium,Government and Research,Russia,0,Network Denial of Service,1,Due diligence,2024
+2023-03-20,Disruption,United States,Administration,Unknown,0,Data Encrypted for Impact,1,Human rights,2023
+2023-04-20,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Human rights,2023
+2023-04-20,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2023
+2023-05-20,Disruption,Germany,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2023
+2024-05-20,Ransomware,France,Finance,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-06-20,Disruption,Indonesia,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2024
+2022-08-20,Data theft,Montenegro,Government and Research,Unknown,3,Data Exfiltration,4,Sovereignty,2022
+2024-08-20,Hijacking,United States,Critical Manufacturing,Unknown,0,Data Manipulation,1,Sovereignty,2024
+2022-09-20,Disruption,Iran,Finance,Unknown,0,Endpoint Denial of Service,1,Sovereignty,2022
+2023-09-20,Disruption,Estonia,Critical Manufacturing,Russia,0,Network Denial of Service,1,Due diligence,2023
+2024-09-20,Data theft,United States,Finance,Unknown,0,Data Exfiltration,3,Human rights,2024
+2024-09-20,Hijacking,India,Government and Research,Unknown,0,Defacement,1,Sovereignty,2024
+2023-10-20,Hijacking,Taiwan,Not available,Korea,0,Data Manipulation,1,Cyber espionage,2023
+2024-10-20,Disruption,Slovenia,Administration,Unknown,0,Data Exfiltration,1,Sovereignty,2024
+2023-12-20,Data theft,Russia,Critical Manufacturing,Ukraine,0,Data Exfiltration,2,Armed conflict,2023
+2023-12-20,Data theft,Germany,Critical Manufacturing,Unknown,1,Data Exfiltration,3,Human rights,2023
+2023-02-21,Disruption,Italy,Military,Russia,0,Network Denial of Service,1,Due diligence,2023
+2023-02-21,Disruption,Russia,Not available,Ukraine,0,Network Denial of Service,1,Armed conflict,2023
+2023-02-21,Data theft,United States,Military,Unknown,0,Data Exfiltration,5,Human rights,2023
+2024-02-21,Data theft,United States,Critical Manufacturing,Unknown,3,Data Encrypted for Impact,3,Human rights,2024
+2024-02-21,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-03-21,Disruption,Luxembourg,Government and Research,Russia,1,Network Denial of Service,1,Due diligence,2024
+2023-05-21,Disruption,United Kingdom,Administration,Unknown,0,Data Encrypted for Impact,1,Human rights,2023
+2023-05-21,Ransomware,South Africa region,Finance,Russia,0,Data Exfiltration,2,Human rights,2023
+2023-05-21,Disruption,United Arab Emirates,Finance,Russia,0,Network Denial of Service,1,Due diligence,2023
+2024-05-21,Data theft,United Kingdom,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-05-21,Disruption,New Caledonia,Critical Manufacturing,Unknown,1,Network Denial of Service,1,Sovereignty,2024
+2023-06-21,Data theft,France,Administration,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-08-21,Disruption,Belgium,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Human rights,2023
+2024-08-21,Disruption,Russia,Critical Manufacturing,Unknown,0,Network Denial of Service,1,Sovereignty,2024
+2024-09-21,Ransomware,United States,Administration,Unknown,0,Data Exfiltration,2,Human rights,2024
+2020-10-21,Data theft,Thailand,Government,Thailand,0,Data Exfiltration,2,Human rights,2020
+2024-10-21,Data theft,France,Critical Manufacturing,Unknown,1,Data Exfiltration,2,Human rights,2024
+2022-11-21,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2022
+2023-11-21,Disruption,Pakistan,Government and Research,Unknown,0,Defacement,1,Air law,2023
+2023-11-21,Disruption,Bahrain,Government and Research,Unknown,1,Network Denial of Service,1,Sovereignty,2023
+2024-11-21,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-11-21,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2023-12-21,Data theft,United States,Administration,Unknown,0,Data Exfiltration,3,Human rights,2023
+2023-12-21,Data theft,Ukraine,Government and Research,Unknown,0,Data Exfiltration,2,Due diligence,2023
+2023-12-21,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-12-21,Data theft,Austria,Administration,Unknown,0,Data Exfiltration,2,Human rights,2023
+2024-01-22,Ransomware,France,Government and Research,Unknown,0,Data Exfiltration,2,Human rights,2024
+2023-02-22,Disruption,Russia,Critical Manufacturing,Ukraine,2,Defacement,1,Armed conflict,2023
+2024-02-22,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Human rights,2024
+2024-02-22,Disruption,United States,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2024
+2023-03-22,Ransomware,United Kingdom,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Human rights,2023
+2024-03-22,Hijacking,France,Administration,Unknown,0,Defacement,1,Human rights,2024
+2022-04-22,Disruption,Ukraine,Administration,Unknown,0,Network Denial of Service,1,Sovereignty,2022
+2023-04-22,Disruption,United Kingdom,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2023
+2023-04-22,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2024-04-22,Disruption,France,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2024
+2014-05-22,Data theft,Ukraine,Government,Ukraine,0,Data Exfiltration,4,International peace,2014
+2023-05-22,Disruption,India,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2023
+2024-05-22,Disruption,Denmark,Administration,Unknown,0,Network Denial of Service,1,Sovereignty,2024
+2022-06-22,Data theft,Mexico,Government,Mexico,0,Data Exfiltration,1,Human rights,2022
+2024-06-22,Ransomware,South Africa,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2023-07-22,Disruption,Estonia,Finance,Korea,1,Data Manipulation,1,Human rights,2023
+2024-07-22,Disruption,Croatia,Critical Manufacturing,Unknown,2,Data Encrypted for Impact,1,Air law,2024
+2022-08-22,Data theft,India,Not available,Korea,0,Data Exfiltration,5,Cyber espionage,2022
+2024-09-22,Hijacking,United States,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,5,Human rights,2024
+2022-11-22,Disruption,United Kingdom,Government and Research,Russia,0,Network Denial of Service,1,Due diligence,2022
+2023-11-22,Data theft,Spain,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-11-22,Disruption,Switzerland,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2023
+2024-11-22,Disruption,Germany,Military,Unknown,0,Network Denial of Service,1,Due diligence,2024
+2022-12-22,Ransomware,Korea,Military,Korea,1,Data Exfiltration,3,Cyber espionage,2022
+2024-01-23,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Due diligence,2024
+2024-01-23,Disruption,Russia,Government and Research,Unknown,0,Data Destruction,3,Armed conflict,2024
+2024-01-23,Disruption,Czech Republic,Government and Research,Unknown,0,Network Denial of Service,1,Sovereignty,2024
+2024-01-23,Data theft,United Kingdom,Administration,Unknown,0,Data Encrypted for Impact,5,Human rights,2024
+2022-02-23,Disruption,Lithuania,Critical Manufacturing,Russia,0,Data Destruction,1,Sovereignty,2022
+2022-02-23,Disruption,Ukraine,Government and Research,Russia,1,Network Denial of Service,1,Armed conflict,2022
+2023-02-23,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Human rights,2023
+2023-02-23,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-03-23,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Human rights,2023
+2023-05-23,Disruption,United States,Administration,Unknown,0,Data Encrypted for Impact,1,Human rights,2023
+2024-05-23,Disruption,Germany,Government and Research,Unknown,1,Network Denial of Service,1,Sovereignty,2024
+2024-05-23,Data theft,India,Government,China,0,Data Exfiltration,2,Human rights,2024
+2023-06-23,Hijacking,Germany,Administration,Unknown,0,Account Access Removal,1,Sovereignty,2023
+2023-07-23,Disruption,Spain,Government and Research,Russia,0,Network Denial of Service,1,Due diligence,2023
+2023-07-23,Disruption,Kenya,Administration,Unknown,1,Network Denial of Service,1,Due diligence,2023
+2024-07-23,Disruption,Russia,Finance,Ukraine,0,Network Denial of Service,1,Armed conflict,2024
+2022-08-23,Disruption,Moldova,Critical Manufacturing,Russia,1,Network Denial of Service,1,Cyber espionage,2022
+2023-08-23,Data theft,United States,Administration,Unknown,0,Data Exfiltration,3,Human rights,2023
+2023-08-23,Data theft,France,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Human rights,2023
+2024-08-23,Disruption,Switzerland,Critical Manufacturing,Unknown,0,Network Denial of Service,1,Sovereignty,2024
+2023-09-23,Ransomware,Japan,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Human rights,2023
+2023-09-23,Disruption,Finland,Administration,Unknown,0,Network Denial of Service,1,Sovereignty,2023
+2023-09-23,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-09-23,Disruption,Slovakia,Government and Research,Unknown,0,Network Denial of Service,1,Sovereignty,2023
+2023-09-23,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Due diligence,2023
+2024-09-23,Disruption,Austria,Administration,Unknown,0,Network Denial of Service,1,Sovereignty,2024
+2024-09-23,Data theft,Spain,Finance,Unknown,1,Data Encrypted for Impact,2,Human rights,2024
+2024-09-23,Disruption,Russia,Military,Ukraine,0,Data Destruction,3,Armed conflict,2024
+2024-09-23,Disruption,Austria,Government and Research,Russia,1,Network Denial of Service,1,Sovereignty,2024
+2024-09-23,Disruption,Uruguay,Government and Research,Unknown,1,Defacement,2,Human rights,2024
+2023-10-23,Data theft,Canada,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Human rights,2023
+2023-10-23,Disruption,Brazil,Critical Manufacturing,Unknown,0,Network Denial of Service,1,Armed conflict,2023
+2024-10-23,Ransomware,Germany,Administration,Unknown,1,Data Exfiltration,2,Human rights,2024
+2024-10-23,Hijacking,Turkey,Not available,Unknown,0,Defacement,1,Human rights,2024
+2022-11-23,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2022
+2023-11-23,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-11-23,Disruption,Germany,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2023
+2021-12-23,Hijacking,Ukraine,Government and Research,Russia,1,Defacement,1,Sovereignty,2021
+2022-12-23,Data theft,United States,Other,Unknown,0,Data Exfiltration,3,Human rights,2022
+2023-12-23,Disruption,United States,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2023
+2024-01-24,Ransomware,United States,Administration,Russia,0,Data Exfiltration,3,Human rights,2024
+2022-02-24,Disruption,Poland,Critical Manufacturing,Russia,7,Disk Wipe,3,Due diligence,2022
+2022-02-24,Disruption,Ukraine,Government and Research,Unknown,0,Disk Wipe,3,Armed conflict,2022
+2023-03-24,Data theft,Switzerland,Not available,Unknown,2,Data Exfiltration,5,Human rights,2023
+2024-03-24,Disruption,Belgium,Other,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2024
+2024-03-24,Data theft,Spain,Administration,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-04-24,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-06-24,Data theft,Korea,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Human rights,2024
+2024-07-24,Disruption,Uruguay,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2024
+2024-08-24,Disruption,Russia,Critical Manufacturing,Ukraine,0,Data Destruction,1,Armed conflict,2024
+2024-08-24,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Air law,2024
+2023-09-24,Hijacking,China,Finance,Korea,0,Data Manipulation,1,Human rights,2023
+2022-10-24,Data theft,Africa region,Government and Research,Russia,0,Data Exfiltration,2,Cyber espionage,2022
+2023-10-24,Disruption,Czech Republic,Government and Research,Russia,0,Network Denial of Service,1,Air law,2023
+2021-11-24,Ransomware,United Kingdom,Administration,Russia,0,Data Exfiltration,3,International peace,2021
+2023-12-24,Disruption,Germany,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Human rights,2023
+2023-01-25,Disruption,Germany,Military,Russia,1,Network Denial of Service,1,Due diligence,2023
+2023-01-25,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2023
+2024-01-25,Ransomware,Italy,Other,Unknown,0,Data Exfiltration,4,Human rights,2024
+2024-01-25,Ransomware,Italy,Finance,Unknown,0,Data Exfiltration,4,Human rights,2024
+2024-01-25,Data theft,Ukraine,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Armed conflict,2024
+2024-01-25,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-02-25,Data theft,France,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2024
+2024-02-25,Data theft,Mongolia,Government and Research,China,0,Data Exfiltration,3,Cyber espionage,2024
+2024-02-25,Disruption,Canada,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2024
+2024-02-25,Data theft,Canada,Government and Research,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-02-25,Data theft,China,Military,Unknown,1,Data Exfiltration,3,Cyber espionage,2024
+2024-02-25,Data theft,Middle East region,Government and Research,United Arab Emirates,0,Data Exfiltration,2,Cyber espionage,2024
+2024-02-25,Data theft,United States,Administration,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-02-25,Ransomware,Romania,Government and Research,Unknown,0,Data Exfiltration,3,Human rights,2024
+2024-02-25,Disruption,Singapore,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Human rights,2024
+2024-02-25,Disruption,Denmark,Critical Manufacturing,Unknown,0,Network Denial of Service,1,Air law,2024
+2024-02-25,Data theft,United States,Administration,Unknown,0,Data Exfiltration,2,Sovereignty,2024
+2024-02-25,Data theft,Australia,Government and Research,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-02-25,Data theft,Spain,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2024
+2024-02-25,Data theft,Canada,Government and Research,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-02-25,Data theft,Asia region,Government and Research,Unknown,0,Data Exfiltration,3,Cyber espionage,2024
+2023-04-25,Disruption,France,Administration,Unknown,0,Data Encrypted for Impact,1,Human rights,2023
+2024-04-25,Disruption,France,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2024
+2024-05-25,Disruption,United States,Administration,Unknown,0,Data Encrypted for Impact,1,Human rights,2024
+2024-05-25,Disruption,Russia,Other,Unknown,0,Data Encrypted for Impact,1,Armed conflict,2024
+2020-06-25,Disruption,United States,Military,Russia,0,Data Encrypted for Impact,1,Due diligence,2020
+2023-07-25,Disruption,Ukraine,Other,Russia,0,Data Destruction,3,Armed conflict,2023
+2023-07-25,Disruption,United Kingdom,Not available,Russia,0,Network Denial of Service,1,Human rights,2023
+2023-07-25,Ransomware,United Arab Emirates,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-07-25,Ransomware,United States,Administration,Unknown,0,Data Exfiltration,4,Human rights,2023
+2024-08-25,Disruption,France,Government,Russia,0,Network Denial of Service,1,Sovereignty,2024
+2024-08-25,Data theft,Italy,Administration,Unknown,0,Data Exfiltration,5,Human rights,2024
+2024-08-25,Disruption,France,Government,Unknown,0,Network Denial of Service,1,Due diligence,2024
+2024-08-25,Disruption,France,Government and Research,Unknown,0,Network Denial of Service,1,Sovereignty,2024
+2024-08-25,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2024
+2023-09-25,Disruption,Canada,Critical Manufacturing,Unknown,0,Network Denial of Service,1,Sovereignty,2023
+2024-09-25,Disruption,United Kingdom,Critical Manufacturing,Unknown,1,Defacement,1,Sovereignty,2024
+2023-10-25,Disruption,United States,Critical Manufacturing,Unknown,0,Firmware Corruption,1,Sovereignty,2023
+2024-11-25,Ransomware,United States,Critical Manufacturing,Unknown,0,Account Access Removal,1,Sovereignty,2024
+2024-11-25,Disruption,Australia,Government and Research,Unknown,0,Network Denial of Service,1,Due diligence,2024
+2022-12-25,Ransomware,Portugal,Critical Manufacturing,Russia,0,Data Exfiltration,5,Sovereignty,2022
+2024-01-26,Data theft,Mexico,Government and Research,Mexico,0,Data Exfiltration,5,Human rights,2024
+2022-02-26,Hijacking,Russia,Other,Unknown,0,Data Manipulation,1,Human rights,2022
+2023-02-26,Disruption,Denmark,Critical Manufacturing,Sudan,0,Network Denial of Service,1,Human rights,2023
+2023-02-26,Disruption,Canada,Finance,Unknown,0,Network Denial of Service,1,Due diligence,2023
+2024-02-26,Hijacking,Philippines,Military,Unknown,0,Account Access Removal,1,Due diligence,2024
+2024-02-26,Ransomware,Sweden,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2023-03-26,Disruption,France,Government and Research,Russia,0,Network Denial of Service,1,Due diligence,2023
+2023-03-26,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2023
+2024-03-26,Disruption,Luxembourg,Administration,Russia,0,Network Denial of Service,1,Due diligence,2024
+2024-03-26,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,1,Sovereignty,2024
+2023-04-26,Disruption,United States,Administration,Unknown,0,Data Encrypted for Impact,1,Due diligence,2023
+2023-04-26,Disruption,Israel,Critical Manufacturing,Russia,0,Network Denial of Service,1,Law of the sea,2023
+2024-04-26,Hijacking,Uruguay,Administration,Unknown,0,Defacement,1,Sovereignty,2024
+2023-05-26,Disruption,Senegal,Government and Research,Bangladesh,0,Network Denial of Service,1,Due diligence,2023
+2023-05-26,Data theft,United States,Administration,Unknown,0,Data Exfiltration,3,Human rights,2023
+2023-05-26,Disruption,Italy,Government and Research,Unknown,0,Network Denial of Service,1,Due diligence,2023
+2024-05-26,Disruption,France,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2024
+2023-06-26,Disruption,Belgium,Government and Research,Unknown,0,Network Denial of Service,1,Sovereignty,2023
+2023-07-26,Data theft,Brazil,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Human rights,2023
+2024-07-26,Hijacking,Argentina,Administration,Unknown,0,Data Manipulation,1,Sovereignty,2024
+2024-08-26,Disruption,Venezuela,Government,Unknown,0,Network Denial of Service,1,Sovereignty,2024
+2023-09-26,Disruption,Canada,Critical Manufacturing,India,0,Network Denial of Service,1,Due diligence,2023
+2024-09-26,Disruption,United States,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Human rights,2024
+2023-10-26,Ransomware,United Kingdom,Administration,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-11-26,Disruption,United States,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2023
+2023-12-26,Disruption,Trinidad and Tobago,Administration,Unknown,0,Data Encrypted for Impact,1,Human rights,2023
+2024-01-27,Data theft,Spain,Government and Research,United States,0,Data Exfiltration,2,Human rights,2024
+2024-01-27,Ransomware,Germany,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2022-02-27,Data theft,Middle East region,Government and Research,Unknown,0,Data Exfiltration,4,Cyber espionage,2022
+2023-02-27,Hijacking,United States,Government and Research,Ukraine,1,Defacement,1,Due diligence,2023
+2024-02-27,Disruption,Japan,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Human rights,2024
+2024-02-27,Data theft,United States,Finance,Unknown,0,Data Exfiltration,3,Human rights,2024
+2023-03-27,Data theft,Cyprus,Administration,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-04-27,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Human rights,2023
+2022-05-27,Disruption,United States,Critical Manufacturing,Russia,0,Data Encrypted for Impact,1,Human rights,2022
+2023-05-27,Disruption,Germany,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2023
+2023-05-27,Ransomware,United Kingdom,Finance,Unknown,2,Data Exfiltration,2,Human rights,2023
+2023-05-27,Disruption,Russia,Other,Ukraine,0,Defacement,1,Armed conflict,2023
+2024-05-27,Disruption,United States,Administration,Unknown,0,Data Encrypted for Impact,1,Human rights,2024
+2024-06-27,Ransomware,Croatia,Critical Manufacturing,Unknown,0,Data Exfiltration,1,Human rights,2024
+2024-06-27,Data theft,United States,Not available,Unknown,0,Data Exfiltration,2,Cyber espionage,2024
+2023-08-27,Hijacking,United States,Critical Manufacturing,Unknown,0,Data Manipulation,1,Sovereignty,2023
+2024-08-27,Disruption,Germany,Government and Research,Unknown,1,Network Denial of Service,1,Sovereignty,2024
+2023-09-27,Ransomware,Portugal,Administration,Unknown,0,Data Exfiltration,2,Due diligence,2023
+2023-10-27,Disruption,Russia,Critical Manufacturing,Ukraine,0,Network Denial of Service,1,Armed conflict,2023
+2024-11-27,Ransomware,Argentina,Government and Research,Unknown,0,Data Encrypted for Impact,2,Human rights,2024
+2024-11-27,Disruption,United States,Administration,Unknown,1,Data Destruction,1,Sovereignty,2024
+2022-12-27,Hijacking,United States,Government and Research,Russia,0,Defacement,1,Due diligence,2022
+2023-12-27,Data theft,Switzerland,Government and Research,Unknown,0,Data Exfiltration,5,Due diligence,2023
+2023-01-28,Disruption,Poland,Critical Manufacturing,Russia,1,Network Denial of Service,1,Human rights,2023
+2023-01-28,Ransomware,United Kingdom,Administration,Unknown,4,Data Exfiltration,4,Human rights,2023
+2024-01-28,Disruption,Ukraine,Administration,Unknown,0,Network Denial of Service,1,Armed conflict,2024
+2024-01-28,Data theft,Italy,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,4,Human rights,2024
+2023-02-28,Disruption,Poland,Administration,Russia,1,Network Denial of Service,1,Due diligence,2023
+2023-02-28,Data theft,Asia region,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Due diligence,2023
+2023-02-28,Disruption,Russia,Military,Ukraine,0,Network Denial of Service,1,Armed conflict,2023
+2023-02-28,Data theft,India,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Human rights,2023
+2024-02-28,Hijacking,Ukraine,Government and Research,Unknown,1,Defacement,1,Sovereignty,2024
+2023-03-28,Data theft,India,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-03-28,Disruption,United States,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2023
+2023-03-28,Ransomware,Puerto Rico,Administration,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-03-28,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2023
+2023-03-28,Data theft,Korea,Not available,Korea,1,Data Exfiltration,2,Cyber espionage,2023
+2022-04-28,Disruption,United States,Critical Manufacturing,Unknown,0,Data Destruction,5,Human rights,2022
+2023-04-28,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2023
+2024-04-28,Ransomware,Canada,Critical Manufacturing,Unknown,0,Data Exfiltration,4,Human rights,2024
+2023-05-28,Ransomware,India,Administration,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-05-28,Disruption,Italy,Finance,Russia,0,Network Denial of Service,1,Due diligence,2023
+2023-07-28,Disruption,Israel,Critical Manufacturing,Iran,0,Network Denial of Service,1,Due diligence,2023
+2024-07-28,Disruption,Venezuela,Government,Mexico,1,Network Denial of Service,1,Due diligence,2024
+2024-07-28,Data theft,Korea,Administration,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-07-28,Hijacking,Philippines,Government and Research,Unknown,0,Defacement,1,Sovereignty,2024
+2023-09-28,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2023
+2023-09-28,Disruption,Germany,Government and Research,Unknown,0,Network Denial of Service,1,Sovereignty,2023
+2023-09-28,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-09-28,Disruption,United States,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2023
+2023-09-28,Disruption,Russia,Critical Manufacturing,Ukraine,0,Network Denial of Service,1,Due diligence,2023
+2024-09-28,Hijacking,Spain,Critical Manufacturing,Unknown,1,Data Encrypted for Impact,1,Sovereignty,2024
+2023-10-28,Ransomware,Canada,Administration,Unknown,0,Data Exfiltration,2,Human rights,2023
+2024-10-28,Disruption,Germany,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Human rights,2024
+2022-11-28,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2022
+2023-11-28,Disruption,Germany,Critical Manufacturing,Unknown,0,Data Destruction,3,Human rights,2023
+2023-11-28,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2024-11-28,Hijacking,Pakistan,Critical Manufacturing,Unknown,0,Data Manipulation,1,Sovereignty,2024
+2023-12-28,Disruption,United States,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2023
+2024-01-29,Data theft,France,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-02-29,Data theft,Taiwan,Critical Manufacturing,Unknown,1,Data Exfiltration,2,Sovereignty,2024
+2024-02-29,Hijacking,Sweden,Finance,Unknown,0,Data Manipulation,1,Sovereignty,2024
+2023-03-29,Ransomware,Germany,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Due diligence,2023
+2024-03-29,Disruption,Spain,Administration,Russia,0,Data Encrypted for Impact,1,Due diligence,2024
+2024-03-29,Ransomware,United States,Military,Unknown,0,Data Exfiltration,2,Due diligence,2024
+2022-04-29,Disruption,Romania,Government and Research,Russia,1,Network Denial of Service,1,Due diligence,2022
+2023-04-29,Disruption,United States,Administration,Unknown,0,Data Encrypted for Impact,1,Due diligence,2023
+2023-04-29,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-04-29,Disruption,Argentina,Administration,Unknown,0,Data Encrypted for Impact,1,Human rights,2023
+2024-04-29,Ransomware,United States,Administration,Unknown,0,Data Exfiltration,2,Sovereignty,2024
+2023-05-29,Disruption,Senegal,Government and Research,Bangladesh,0,Network Denial of Service,1,Due diligence,2023
+2023-05-29,Disruption,France,Other,Bangladesh,0,Network Denial of Service,1,Due diligence,2023
+2023-05-29,Disruption,Iran,Government and Research,Unknown,0,Defacement,1,Due diligence,2023
+2023-05-29,Disruption,Greece,Government and Research,Unknown,1,Network Denial of Service,1,Human rights,2023
+2022-06-29,Data theft,Japan,Government and Research,China,0,Data Exfiltration,2,Cyber espionage,2022
+2022-06-29,Data theft,Norway,Administration,Russia,2,Data Exfiltration,2,Sovereignty,2022
+2023-06-29,Ransomware,Australia,Critical Manufacturing,Unknown,0,Data Exfiltration,5,Human rights,2023
+2024-07-29,Ransomware,Switzerland,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2024
+2024-07-29,Disruption,Italy,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2024
+2022-08-29,Disruption,Russia,Finance,Ukraine,0,Network Denial of Service,1,Sovereignty,2022
+2022-08-29,Disruption,Russia,Critical Manufacturing,Ukraine,0,Network Denial of Service,1,Armed conflict,2022
+2023-08-29,Disruption,United States,Critical Manufacturing,Sudan,0,Network Denial of Service,1,Human rights,2023
+2023-09-29,Disruption,New Zealand,Critical Manufacturing,Unknown,0,Network Denial of Service,1,Due diligence,2023
+2023-09-29,Ransomware,United States,Administration,Unknown,0,Data Exfiltration,2,Human rights,2023
+2022-10-29,Disruption,China,Government and Research,Unknown,0,Defacement,1,Sovereignty,2022
+2023-10-29,Disruption,Germany,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Due diligence,2023
+2024-11-29,Disruption,United States,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Human rights,2024
+2022-12-29,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2022
+2023-12-29,Ransomware,Sweden,Other,Unknown,0,Data Exfiltration,1,Due diligence,2023
+2023-03-30,Ransomware,India,Administration,Russia,0,Data Exfiltration,3,Human rights,2023
+2023-03-30,Ransomware,United Kingdom,Government,Unknown,0,Data Exfiltration,2,Human rights,2023
+2024-03-30,Disruption,Chile,Critical Manufacturing,Unknown,0,Data Encrypted for Impact,1,Due diligence,2024
+2023-04-30,Data theft,United States,Government and Research,Unknown,0,Data Exfiltration,4,Human rights,2023
+2023-04-30,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2024-04-30,Data theft,Finland,Administration,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-04-30,Disruption,Ecuador,Government and Research,Unknown,0,Network Denial of Service,1,Sovereignty,2024
+2023-05-30,Ransomware,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-05-30,Data theft,United States,Government and Research,Unknown,0,Data Exfiltration,3,Human rights,2023
+2024-07-30,Disruption,United States,Critical Manufacturing,Unknown,0,Network Denial of Service,1,Sovereignty,2024
+2023-08-30,Ransomware,France,Administration,Unknown,0,Data Exfiltration,2,Due diligence,2023
+2024-08-30,Hijacking,United States,Critical Manufacturing,Russia,1,Firmware Corruption,1,Human rights,2024
+2024-09-30,Disruption,Spain,Government and Research,Unknown,0,Data Encrypted for Impact,1,Human rights,2024
+2023-10-30,Disruption,Germany,Administration,Unknown,0,Data Encrypted for Impact,1,Human rights,2023
+2023-10-30,Disruption,United Kingdom,Critical Manufacturing,Russia,0,Network Denial of Service,1,Air law,2023
+2024-10-30,Ransomware,Peru,Finance,Unknown,1,Data Exfiltration,4,Human rights,2024
+2023-11-30,Data theft,Israel,Not available,Iran,0,Data Exfiltration,3,Human rights,2023
+2024-11-30,Data theft,Croatia,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Cyber espionage,2024
+2023-12-30,Data theft,United States,Finance,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-12-30,Disruption,Russia,Critical Manufacturing,Ukraine,0,Service Stop,1,Armed conflict,2023
+2023-01-31,Ransomware,United States,Military,Unknown,0,Data Exfiltration,5,Human rights,2023
+2023-01-31,Disruption,Germany,Critical Manufacturing,Unknown,0,Network Denial of Service,1,Due diligence,2023
+2024-01-31,Disruption,Spain,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2024
+2022-03-31,Data theft,Ukraine,Government and Research,Russia,1,Data Exfiltration,4,Armed conflict,2022
+2023-03-31,Data theft,United States,Critical Manufacturing,Unknown,0,Data Exfiltration,3,Human rights,2023
+2024-03-31,Disruption,Argentina,Administration,Unknown,0,Data Encrypted for Impact,1,Sovereignty,2024
+2023-05-31,Disruption,United Kingdom,Administration,Unknown,0,Data Encrypted for Impact,1,Human rights,2023
+2023-05-31,Disruption,Sweden,Critical Manufacturing,Russia,0,Network Denial of Service,1,Air law,2023
+2023-05-31,Disruption,Slovakia,Administration,Unknown,0,Network Denial of Service,1,Due diligence,2023
+2024-05-31,Disruption,United Kingdom,Administration,Unknown,0,Data Encrypted for Impact,1,Human rights,2024
+2024-05-31,Disruption,Switzerland,Administration,Unknown,0,Data Encrypted for Impact,1,Human rights,2024
+2024-05-31,Hijacking,Poland,Administration,Russia,2,Defacement,1,Human rights,2024
+2023-07-31,Disruption,Russia,Government and Research,Unknown,1,Network Denial of Service,1,Sovereignty,2023
+2023-07-31,Data theft,Ukraine,Military,Russia,1,Data Exfiltration,2,Armed conflict,2023
+2023-07-31,Data theft,United States,Finance,United States,0,Data Exfiltration,3,Cyber espionage,2023
+2023-07-31,Disruption,Italy,Critical Manufacturing,Russia,0,Network Denial of Service,1,Due diligence,2023
+2023-08-31,Disruption,United States,Government and Research,Unknown,1,Defacement,1,Human rights,2023
+2024-10-31,Data theft,United States,Finance,Unknown,0,Data Exfiltration,2,Human rights,2024
+2024-10-31,Data theft,United Arab Emirates,Finance,Unknown,0,Data Exfiltration,2,Sovereignty,2024
+2023-12-31,Ransomware,Bosnia and Herzegovina,Administration,Unknown,0,Data Exfiltration,2,Human rights,2023
+2023-12-31,Hijacking,Korea,Finance,Unknown,0,Data Manipulation,1,Human rights,2023
